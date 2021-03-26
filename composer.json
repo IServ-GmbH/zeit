@@ -1,0 +1,22 @@
+{
+    "name": "iserv/zeit",
+    "description": "An all purpose library for date and time handling.",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "IServ\\Library\\Zeit\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://composer.iserv.eu"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    }
+}

@@ -1,0 +1,9 @@
+vendor/
+.idea/
+reports/
+coverage/
+tools/
+.php_cs.cache
+.phpunit.cache/
+composer.lock
+
