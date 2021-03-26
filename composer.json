@@ -3,7 +3,8 @@
     "description": "An all purpose library for date and time handling.",
     "type": "library",
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.3",
+        "symfony/polyfill-php80": "^1.22"
     },
     "autoload": {
         "psr-4": {
