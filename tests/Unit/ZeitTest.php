@@ -1,0 +1,108 @@
+<?php
+
+declare(strict_types=1);
+
+namespace IServ\Library\Zeit\Tests\Unit;
+
+use IServ\Library\Zeit\Clock\FixedClock;
+use IServ\Library\Zeit\Clock\SystemClock;
+use IServ\Library\Zeit\Zeit;
+use PHPUnit\Framework\TestCase;
+
+/**
+ * @covers \IServ\Library\Zeit\Zeit
+ * @uses \IServ\Library\Zeit\Date
+ * @uses \IServ\Library\Zeit\Time
+ * @uses \IServ\Library\Zeit\Clock\FixedClock
+ * @uses \IServ\Library\Zeit\Clock\SystemClock
+ * @uses \IServ\Library\Zeit\Exception\TypeException
+ */
+final class ZeitTest extends TestCase
+{
+    private const DESIRED_TIME = '2019-07-29T11:47:23+02:00';
+
+    public function providesInvalidTimestamps(): iterable
+    {
+        yield 'object' => [new \DateTimeImmutable()];
+        yield 'float' => [1.564393643];
+        yield 'array' => [[1564393643]];
+    }
+
+    public function testNowWithFixedClock(): void
+    {
+        Zeit::setClock($clock = FixedClock::fromString(self::DESIRED_TIME));
+
+        $now = Zeit::now();
+        $this->assertEquals($clock->now(), $now);
+        $this->assertEquals($clock->now()->format('c'), $now->format('c'));
+
+        $nowUtc = Zeit::nowUtc();
+        $this->assertEquals('2019-07-29T09:47:23+00:00', $nowUtc->format('c'));
+
+        $date = Zeit::date();
+        $this->assertEquals('2019-07-29', $date->getValue());
+
+        $time = Zeit::time();
+        $this->assertEquals('11:47:23', $time->getValue());
+    }
+
+    public function testNowDoesNotChangeWithFixedClock(): void
+    {
+        Zeit::setClock($clock = FixedClock::fromString(self::DESIRED_TIME));
+        $time = $clock->now();
+
+        $now = Zeit::now();
+        $this->assertEquals($time, $now);
+
+        usleep(50);
+
+        $now = Zeit::now();
+        $this->assertEquals($time, $now);
+    }
+
+    public function testNowDoesChangeWithDefaultClock(): void
+    {
+        Zeit::setClock($clock = SystemClock::create());
+        $time = $clock->now();
+
+        $now = Zeit::now();
+        $this->assertNotEquals($time, $now);
+
+        usleep(50);
+
+        $now = Zeit::now();
+        $this->assertNotEquals($time, $now);
+    }
+
+    public function testCreate(): void
+    {
+        $dateTime = Zeit::create(self::DESIRED_TIME);
+
+        $this->assertSame(self::DESIRED_TIME, $dateTime->format('c'));
+
+        $this->expectException(\InvalidArgumentException::class);
+        Zeit::create('Yo baby yo baby yo!');
+    }
+
+    public function testCreateFromTimestamp(): void
+    {
+        $dateTime = Zeit::createFromTimestamp(1564393643);
+
+        $this->assertSame(1564393643, $dateTime->getTimestamp());
+        $this->assertSame('2019-07-29T09:47:23+00:00', $dateTime->format('c'));
+
+        $this->expectException(\InvalidArgumentException::class);
+        Zeit::createFromTimestamp('a timestamp'); // A valid type, but no valid timestamp
+    }
+
+    /**
+     * @dataProvider providesInvalidTimestamps
+     *
+     * @param mixed $wannabeTimestamp
+     */
+    public function testCreateFromTimestampFailsOnInvalidArguments($wannabeTimestamp): void
+    {
+        $this->expectException(\InvalidArgumentException::class);
+        Zeit::createFromTimestamp($wannabeTimestamp);
+    }
+}
