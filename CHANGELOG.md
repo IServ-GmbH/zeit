@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file, in reverse 
 
 ## [Unreleased]
 
+### Added
+
+- MIT license. #50422
+
+### Changed
+
+- Modernized library including new tooling and PHP 8.1. #50422
+
 ## 1.0 - 2021-04-30
 
 ### Added

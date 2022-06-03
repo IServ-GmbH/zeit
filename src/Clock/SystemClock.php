@@ -20,11 +20,7 @@ final class SystemClock implements Clock
      */
     public function now(): \DateTimeImmutable
     {
-        try {
-            return new \DateTimeImmutable();
-        } catch (\Exception $e) {
-            throw new \RuntimeException('Could not create time object!', 0, $e);
-        }
+        return new \DateTimeImmutable();
     }
 
     /**
@@ -32,10 +28,6 @@ final class SystemClock implements Clock
      */
     public function usleep(int $microseconds): void
     {
-        if ($microseconds < 0) {
-            throw new \InvalidArgumentException('$microseconds must be greater than or equal to zero!');
-        }
-
         usleep($microseconds);
     }
 }

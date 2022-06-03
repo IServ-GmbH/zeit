@@ -28,8 +28,5 @@ final class SystemClockTest extends TestCase
         $clock->usleep(1);
 
         $this->assertGreaterThanOrEqual($time, $clock->now());
-
-        $this->expectException(\InvalidArgumentException::class);
-        $clock->usleep(-1);
     }
 }

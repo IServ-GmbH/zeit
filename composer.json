@@ -1,23 +1,25 @@
 {
-    "name": "iserv/zeit",
-    "description": "An all purpose library for date and time handling.",
-    "type": "library",
-    "require": {
-        "php": ">=7.3",
-        "symfony/polyfill-php80": "^1.22"
-    },
-    "autoload": {
-        "psr-4": {
-            "IServ\\Library\\Zeit\\": "src/"
-        }
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://composer.iserv.eu"
-        }
-    ],
-    "config": {
-        "sort-packages": true
+  "name": "iserv/zeit",
+  "description": "An all purpose library for date and time handling.",
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "IServ\\Library\\Zeit\\": "src/"
     }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "cotor": {
+      "friendsofphp/php-cs-fixer": "^3.8",
+      "phpstan/phpstan": "^1.7",
+      "phpunit/phpunit": "^9.5",
+      "vimeo/psalm": "^4.23"
+    }
+  }
 }

@@ -6,7 +6,6 @@ namespace IServ\Library\Zeit;
 
 use IServ\Library\Zeit\Clock\Clock;
 use IServ\Library\Zeit\Clock\SystemClock;
-use IServ\Library\Zeit\Exception\TypeException;
 
 /**
  * Time and date factory utils.
@@ -15,10 +14,7 @@ use IServ\Library\Zeit\Exception\TypeException;
  */
 final class Zeit
 {
-    /**
-     * @var Clock|null
-     */
-    private static $clock;
+    private static ?Clock $clock = null;
 
     /**
      * Gets now
@@ -60,27 +56,19 @@ final class Zeit
         try {
             return new \DateTimeImmutable($time);
         } catch (\Exception $e) {
-            throw new \InvalidArgumentException('Could not convert time to object!', 0, $e);
+            throw new \InvalidArgumentException('Could not convert time to object!', previous: $e);
         }
     }
 
     /**
      * Creates a date from given unix timestamp in seconds
-     *
-     * @param int|string $timestamp
-     *
-     * @psalm-suppress DocblockTypeContradiction
      */
-    public static function createFromTimestamp($timestamp): \DateTimeImmutable
+    public static function createFromTimestamp(int|string $timestamp): \DateTimeImmutable
     {
-        if (!is_int($timestamp) && !is_string($timestamp)) {
-            throw TypeException::invalid($timestamp, ['int', 'string']);
-        }
-
         try {
             return new \DateTimeImmutable('@' . $timestamp);
         } catch (\Exception $e) {
-            throw new \InvalidArgumentException('Could not convert time to object!', 0, $e);
+            throw new \InvalidArgumentException('Could not convert time to object!', previous: $e);
         }
     }
 

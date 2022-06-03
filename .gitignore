@@ -1,9 +1,12 @@
-vendor/
-.idea/
-reports/
-coverage/
-tools/
-.php_cs.cache
-.phpunit.cache/
-composer.lock
+/vendor/
+/reports/
+/coverage/
+/.php-cs-fixer.cache
+/.phpunit.cache/
+/composer.lock
 
+
+/.idea/workspace.xml
+/.idea/usage.statistics.xml
+/.idea/tasks.xml
+/.idea/shelf

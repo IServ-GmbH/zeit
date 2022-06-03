@@ -9,11 +9,8 @@ namespace IServ\Library\Zeit\Clock;
  */
 final class FixedClock implements Clock
 {
-    /** @var \DateTimeImmutable */
-    private $time;
-
-    /** @var \DateTimeImmutable */
-    private $originalTime;
+    private \DateTimeImmutable $time;
+    private \DateTimeImmutable $originalTime;
 
     private function __construct(\DateTimeImmutable $time)
     {
@@ -37,7 +34,7 @@ final class FixedClock implements Clock
         try {
             return new self(new \DateTimeImmutable($time));
         } catch (\Exception $e) {
-            throw new \InvalidArgumentException('Could not create time from string!', 0, $e);
+            throw new \InvalidArgumentException('Could not create time from string!', previous: $e);
         }
     }
 
@@ -54,10 +51,6 @@ final class FixedClock implements Clock
      */
     public function usleep(int $microseconds): void
     {
-        if ($microseconds < 0) {
-            throw new \InvalidArgumentException('$microseconds must be greater than or equal to zero!');
-        }
-
         $this->time = $this->time->modify(sprintf('+%d microseconds', $microseconds));
     }
 

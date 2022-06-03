@@ -59,8 +59,5 @@ final class FixedClockTest extends TestCase
 
         $clock->reset();
         $this->assertEquals('22.05.2020 00:00:00.000000', $clock->now()->format('d.m.Y H:i:s.u'));
-
-        $this->expectException(\InvalidArgumentException::class);
-        $clock->usleep(-1);
     }
 }
