@@ -15,18 +15,10 @@ use PHPUnit\Framework\TestCase;
  * @uses \IServ\Library\Zeit\Time
  * @uses \IServ\Library\Zeit\Clock\FixedClock
  * @uses \IServ\Library\Zeit\Clock\SystemClock
- * @uses \IServ\Library\Zeit\Exception\TypeException
  */
 final class ZeitTest extends TestCase
 {
     private const DESIRED_TIME = '2019-07-29T11:47:23+02:00';
-
-    public function providesInvalidTimestamps(): iterable
-    {
-        yield 'object' => [new \DateTimeImmutable()];
-        yield 'float' => [1.564393643];
-        yield 'array' => [[1564393643]];
-    }
 
     public function testNowWithFixedClock(): void
     {
@@ -93,16 +85,5 @@ final class ZeitTest extends TestCase
 
         $this->expectException(\InvalidArgumentException::class);
         Zeit::createFromTimestamp('a timestamp'); // A valid type, but no valid timestamp
-    }
-
-    /**
-     * @dataProvider providesInvalidTimestamps
-     *
-     * @param mixed $wannabeTimestamp
-     */
-    public function testCreateFromTimestampFailsOnInvalidArguments($wannabeTimestamp): void
-    {
-        $this->expectException(\InvalidArgumentException::class);
-        Zeit::createFromTimestamp($wannabeTimestamp);
     }
 }

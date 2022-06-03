@@ -13,6 +13,8 @@ interface Clock
 
     /**
      * Sleep for x microseconds.
+     *
+     * @psalm-param 0|positive-int $microseconds
      */
     public function usleep(int $microseconds): void;
 }

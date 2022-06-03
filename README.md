@@ -1,8 +1,5 @@
 # IServ Zeit Library
 
-[![coverage report](https://git.iserv.eu/iserv/lib/zeit/badges/master/coverage.svg)](https://git.iserv.eu/iserv/lib/zeit/commits/master)
-[![pipeline status](https://git.iserv.eu/iserv/lib/zeit/badges/master/pipeline.svg)](https://git.iserv.eu/iserv/lib/zeit/commits/master)
-
 ## Usage
 
 ### Zeit and Clock
@@ -50,5 +47,5 @@ echo $dateTime->format('Y:m:d H:i:s');
 // will print "2021-04-23 10:37:00"
 ```
 
-The real power of `Date` and `Time` can be leveraged with the `ZeitBridge` compoment which integrates the library into your Doctrine/Symfony
+The real power of `Date` and `Time` can be leveraged with the `ZeitBridge` component which integrates the library into your Doctrine/Symfony
 project and allows to map the Zeit models into entities and forms directly.

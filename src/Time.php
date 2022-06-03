@@ -6,17 +6,10 @@ namespace IServ\Library\Zeit;
 
 final class Time implements Datetimeable, \Stringable
 {
-    /** @var string */
-    private $value;
-
-    /** @var string */
-    private $hour;
-
-    /** @var string */
-    private $minute;
-
-    /** @var string */
-    private $second;
+    private string $value;
+    private string $hour;
+    private string $minute;
+    private string $second;
 
     public function __construct(string $value)
     {
@@ -45,12 +38,7 @@ final class Time implements Datetimeable, \Stringable
         self::validateSecond($this->second);
     }
 
-    /**
-     * @param string|int $hours
-     * @param string|int $minutes
-     * @param string|int $seconds
-     */
-    public static function fromParts($hours, $minutes, $seconds = 0): self
+    public static function fromParts(int|string $hours, int|string $minutes, int|string $seconds = 0): self
     {
         // We duplicate the validation here to assist with better messages which would otherwise
         // be mapped to the generic "bad format" check.
@@ -87,7 +75,7 @@ final class Time implements Datetimeable, \Stringable
         try {
             return new \DateTimeImmutable($value);
         } catch (\Exception $e) {
-            throw new \RuntimeException('Could not convert to DateTime!', 0, $e);
+            throw new \RuntimeException('Could not convert to DateTime!', previous: $e);
         }
     }
 
@@ -119,30 +107,21 @@ final class Time implements Datetimeable, \Stringable
         return $this->second;
     }
 
-    /**
-     * @param int|string $hour
-     */
-    private static function validateHour($hour): void
+    private static function validateHour(int|string $hour): void
     {
         if ((int)$hour < 0 || (int)$hour > 23) {
             throw new \InvalidArgumentException(sprintf('Invalid value for hour given: %s', $hour));
         }
     }
 
-    /**
-     * @param int|string $minute
-     */
-    private static function validateMinute($minute): void
+    private static function validateMinute(int|string $minute): void
     {
         if ((int)$minute < 0 || (int)$minute > 59) {
             throw new \InvalidArgumentException(sprintf('Invalid value for minute given: %s', $minute));
         }
     }
 
-    /**
-     * @param int|string $second
-     */
-    private static function validateSecond($second): void
+    private static function validateSecond(int|string $second): void
     {
         if ((int)$second < 0 || (int)$second > 59) {
             throw new \InvalidArgumentException(sprintf('Invalid value for second given: %s', $second));

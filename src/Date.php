@@ -8,17 +8,10 @@ final class Date implements Datetimeable, \Stringable
 {
     private const BC = '-';
 
-    /** @var string */
-    private $value;
-
-    /** @var string */
-    private $year;
-
-    /** @var string */
-    private $month;
-
-    /** @var string */
-    private $day;
+    private string $value;
+    private string $year;
+    private string $month;
+    private string $day;
 
     public function __construct(string $value)
     {
@@ -46,12 +39,7 @@ final class Date implements Datetimeable, \Stringable
         self::validateDay($this->day);
     }
 
-    /**
-     * @param string|int $year
-     * @param string|int $month
-     * @param string|int $day
-     */
-    public static function fromParts($year, $month, $day): self
+    public static function fromParts(int|string $year, int|string $month, int|string $day): self
     {
         // We duplicate the validation here to assist with better messages which would otherwise
         // be mapped to the generic "bad format" check.
@@ -95,7 +83,7 @@ final class Date implements Datetimeable, \Stringable
         try {
             return new \DateTimeImmutable($value);
         } catch (\Exception $e) {
-            throw new \RuntimeException('Could not convert to DateTime!', 0, $e);
+            throw new \RuntimeException('Could not convert to DateTime!', previous: $e);
         }
     }
 
@@ -127,30 +115,21 @@ final class Date implements Datetimeable, \Stringable
         return $this->day;
     }
 
-    /**
-     * @param int|string $year
-     */
-    private static function validateYear($year): void
+    private static function validateYear(int|string $year): void
     {
         if ((int)$year < -9999 || (int)$year > 9999) {
             throw new \InvalidArgumentException(sprintf('Cannot handle the given year: %s', $year));
         }
     }
 
-    /**
-     * @param int|string $month
-     */
-    private static function validateMonth($month): void
+    private static function validateMonth(int|string $month): void
     {
         if ((int)$month < 1 || (int)$month > 12) {
             throw new \InvalidArgumentException(sprintf('Invalid value for month given: %s', $month));
         }
     }
 
-    /**
-     * @param int|string $day
-     */
-    private static function validateDay($day): void
+    private static function validateDay(int|string $day): void
     {
         if ((int)$day < 1 || (int)$day > 31) {
             throw new \InvalidArgumentException(sprintf('Invalid value for day given: %s', $day));
