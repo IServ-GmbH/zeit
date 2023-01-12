@@ -51,7 +51,11 @@ final class FixedClock implements Clock
      */
     public function usleep(int $microseconds): void
     {
-        $this->time = $this->time->modify(sprintf('+%d microseconds', $microseconds));
+        if (false === $naptime = $this->time->modify(sprintf('+%d microseconds', $microseconds))) {
+            throw new \RuntimeException(sprintf('Could not sleep for %dms!', $microseconds));
+        }
+
+        $this->time = $naptime;
     }
 
     /**

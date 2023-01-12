@@ -4,13 +4,10 @@ declare(strict_types=1);
 
 namespace IServ\Library\Zeit\Clock;
 
-interface Clock
-{
-    /**
-     * Gets a current DateTimeImmutable instance.
-     */
-    public function now(): \DateTimeImmutable;
+use Psr\Clock\ClockInterface;
 
+interface Clock extends ClockInterface
+{
     /**
      * Sleep for x microseconds.
      *
