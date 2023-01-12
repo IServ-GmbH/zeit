@@ -21,7 +21,7 @@ printf("It is %s o'clock", $now->format('H'));
  // Will print 12 o'clock
 ```
 
-There's also the option to `usleep` the clock so that you can do time elapsing testing, too.
+The `Clock` is an extension of the [PSR-20: Clock](https://www.php-fig.org/psr/psr-20/) adding the option to `usleep` the clock so that you can do time elapsing testing, too.
 
 ### Date and Time
 
