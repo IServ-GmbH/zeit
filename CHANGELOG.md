@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file, in reverse 
 
 ## [Unreleased]
 
+## 1.2 - 2023-01-13
+
 ### Added
 
 - Added support for [PSR-20: Clock](https://www.php-fig.org/psr/psr-20/). #57908
