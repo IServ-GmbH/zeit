@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file, in reverse 
 
 ## [Unreleased]
 
+### Changed
+
+- Use RepoFlow as composer registry. #84266
+
 ## 1.3 - 2023-07-14
 
 ### Fixed

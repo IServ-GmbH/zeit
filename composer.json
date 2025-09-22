@@ -29,5 +29,15 @@
       "phpunit/phpunit": "^9.5",
       "vimeo/psalm": "^4.23"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.iserv.eu"
+    },
+    {
+      "packagist": false
+    }
+  ],
+  "homepage": "https://git.iserv.eu/iserv/lib/zeit"
 }
