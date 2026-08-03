@@ -19,6 +19,11 @@
       "IServ\\Library\\Zeit\\": "src/"
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "IServ\\Library\\Zeit\\Tests\\": "tests/"
+    }
+  },
   "config": {
     "sort-packages": true
   },
@@ -26,7 +31,7 @@
     "cotor": {
       "friendsofphp/php-cs-fixer": "^3.8",
       "phpstan/phpstan": "^1.7",
-      "phpunit/phpunit": "^9.5",
+      "phpunit/phpunit": "^10.0",
       "vimeo/psalm": "^4.23"
     }
   }
