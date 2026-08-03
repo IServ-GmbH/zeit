@@ -14,7 +14,7 @@ use PHPUnit\Framework\TestCase;
  */
 final class TimeTest extends TestCase
 {
-    public function provideInvalidParts(): iterable
+    public static function provideInvalidParts(): iterable
     {
         yield 'negative hour' => [-1, 0, 0];
         yield '24 hour' => [24, 0, 0];

@@ -14,7 +14,7 @@ use PHPUnit\Framework\TestCase;
  */
 final class DateTest extends TestCase
 {
-    public function provideInvalidParts(): iterable
+    public static function provideInvalidParts(): iterable
     {
         yield 'way too early' => [-10000, 1, 1];
         yield 'way too far' => [10000, 1, 1];
