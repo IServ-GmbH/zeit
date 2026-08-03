@@ -5,11 +5,10 @@ declare(strict_types=1);
 namespace IServ\Library\Zeit\Tests\Unit\Clock;
 
 use IServ\Library\Zeit\Clock\FixedClock;
+use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
 
-/**
- * @covers \IServ\Library\Zeit\Clock\FixedClock
- */
+#[CoversClass(FixedClock::class)]
 final class FixedClockTest extends TestCase
 {
     private const DESIRED_TIME = '2019-07-29 11:47:23.0 +02:00';

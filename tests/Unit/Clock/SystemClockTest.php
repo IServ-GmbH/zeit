@@ -5,11 +5,10 @@ declare(strict_types=1);
 namespace IServ\Library\Zeit\Tests\Unit\Clock;
 
 use IServ\Library\Zeit\Clock\SystemClock;
+use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
 
-/**
- * @covers \IServ\Library\Zeit\Clock\SystemClock
- */
+#[CoversClass(SystemClock::class)]
 final class SystemClockTest extends TestCase
 {
     public function testCreate(): void
