@@ -6,12 +6,13 @@ namespace IServ\Library\Zeit\Tests\Unit;
 
 use IServ\Library\Zeit\Date;
 use IServ\Library\Zeit\Time;
+use PHPUnit\Framework\Attributes\CoversClass;
+use PHPUnit\Framework\Attributes\DataProvider;
+use PHPUnit\Framework\Attributes\UsesClass;
 use PHPUnit\Framework\TestCase;
 
-/**
- * @covers \IServ\Library\Zeit\Date
- * @uses \IServ\Library\Zeit\Time
- */
+#[CoversClass(Date::class)]
+#[UsesClass(Time::class)]
 final class DateTest extends TestCase
 {
     public static function provideInvalidParts(): iterable
@@ -40,12 +41,11 @@ final class DateTest extends TestCase
     }
 
     /**
-     * @dataProvider provideInvalidParts
-     *
      * @param string|int $year
      * @param string|int $month
      * @param string|int $day
      */
+    #[DataProvider('provideInvalidParts')]
     public function testCreateFailsOnBadData($year, $month, $day): void
     {
         $this->expectException(\InvalidArgumentException::class);
@@ -95,12 +95,11 @@ final class DateTest extends TestCase
     }
 
     /**
-     * @dataProvider provideInvalidParts
-     *
      * @param string|int $year
      * @param string|int $month
      * @param string|int $day
      */
+    #[DataProvider('provideInvalidParts')]
     public function testInvalidValues($year, $month, $day): void
     {
         $this->expectException(\InvalidArgumentException::class);
