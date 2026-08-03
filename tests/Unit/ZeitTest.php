@@ -6,16 +6,18 @@ namespace IServ\Library\Zeit\Tests\Unit;
 
 use IServ\Library\Zeit\Clock\FixedClock;
 use IServ\Library\Zeit\Clock\SystemClock;
+use IServ\Library\Zeit\Date;
+use IServ\Library\Zeit\Time;
 use IServ\Library\Zeit\Zeit;
+use PHPUnit\Framework\Attributes\CoversClass;
+use PHPUnit\Framework\Attributes\UsesClass;
 use PHPUnit\Framework\TestCase;
 
-/**
- * @covers \IServ\Library\Zeit\Zeit
- * @uses \IServ\Library\Zeit\Date
- * @uses \IServ\Library\Zeit\Time
- * @uses \IServ\Library\Zeit\Clock\FixedClock
- * @uses \IServ\Library\Zeit\Clock\SystemClock
- */
+#[CoversClass(Zeit::class)]
+#[UsesClass(Date::class)]
+#[UsesClass(Time::class)]
+#[UsesClass(FixedClock::class)]
+#[UsesClass(SystemClock::class)]
 final class ZeitTest extends TestCase
 {
     private const DESIRED_TIME = '2019-07-29T11:47:23+02:00';
