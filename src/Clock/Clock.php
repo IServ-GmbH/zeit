@@ -6,6 +6,9 @@ namespace IServ\Library\Zeit\Clock;
 
 use Psr\Clock\ClockInterface;
 
+/**
+ * @api
+ */
 interface Clock extends ClockInterface
 {
     /**
