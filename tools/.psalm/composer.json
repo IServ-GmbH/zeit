@@ -1,7 +1,7 @@
 {
   "require": {
     "php": ">=8.2",
-    "vimeo/psalm": "^6.0"
+    "vimeo/psalm": "^7.0"
   },
   "repositories": [
     {
