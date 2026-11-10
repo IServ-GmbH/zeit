@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9611f65d45784092c6187c0a07deaf32",
+    "content-hash": "8cb99c3f02c74666e1f0551398d60232",
     "packages": [
         {
             "name": "amphp/amp",
@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/amp/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvYW1wL3ppcGJhbGwvNzNjMzhiMzIzZmY4ZDc5MGFiZjBmNzZjNTZmY2M4OTJiZGE0MTExYSIsInZlcnNpb24iOiJ2My4xLjMiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/amp/zipball/73c38b323ff8d790abf0f76c56fcc892bda4111a",
                 "reference": "73c38b323ff8d790abf0f76c56fcc892bda4111a",
                 "shasum": ""
             },
@@ -40,6 +40,7 @@
                     "Amp\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -84,8 +85,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-19T17:59:20+00:00",
-            "published-time": "2026-07-26T14:55:09+00:00"
+            "time": "2026-07-19T17:59:20+00:00"
         },
         {
             "name": "amphp/byte-stream",
@@ -97,7 +97,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/byte-stream/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvYnl0ZS1zdHJlYW0vemlwYmFsbC8xNTExY2RmZGY4NjhhNzA2MzA3MzU4YmQ0OGYxNTVjM2RmMmM0OTBmIiwidmVyc2lvbiI6InYyLjEuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/byte-stream/zipball/1511cdfdf868a706307358bd48f155c3df2c490f",
                 "reference": "1511cdfdf868a706307358bd48f155c3df2c490f",
                 "shasum": ""
             },
@@ -126,6 +126,7 @@
                     "Amp\\ByteStream\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -159,8 +160,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-31T19:10:04+00:00",
-            "published-time": "2026-10-31T19:16:39+00:00"
+            "time": "2026-10-31T19:10:04+00:00"
         },
         {
             "name": "amphp/cache",
@@ -172,7 +172,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/cache/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvY2FjaGUvemlwYmFsbC80NjkxMmUzODdlNmFhOTQ5MzNiNjFlYTFlYWQ5Y2Y3NTQwYjc3OTdjIiwidmVyc2lvbiI6InYyLjAuMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/cache/zipball/46912e387e6aa94933b61ea1ead9cf7540b7797c",
                 "reference": "46912e387e6aa94933b61ea1ead9cf7540b7797c",
                 "shasum": ""
             },
@@ -195,6 +195,7 @@
                     "Amp\\Cache\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -224,8 +225,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-04-19T03:38:06+00:00",
-            "published-time": "2024-04-19T03:40:51+00:00"
+            "time": "2024-04-19T03:38:06+00:00"
         },
         {
             "name": "amphp/dns",
@@ -237,7 +237,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/dns/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvZG5zL3ppcGJhbGwvMmUyYjRkYWEyMTRhMThiMTUyODkxOWQ2NzgxOTg4ZWE2NWE5YTQ3ZCIsInZlcnNpb24iOiJ2Mi40LjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/dns/zipball/2e2b4daa214a18b1528919d6781988ea65a9a47d",
                 "reference": "2e2b4daa214a18b1528919d6781988ea65a9a47d",
                 "shasum": ""
             },
@@ -268,6 +268,7 @@
                     "Amp\\Dns\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -313,8 +314,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-31T19:53:43+00:00",
-            "published-time": "2026-10-31T19:59:04+00:00"
+            "time": "2026-10-31T19:53:43+00:00"
         },
         {
             "name": "amphp/parallel",
@@ -326,7 +326,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/parallel/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcGFyYWxsZWwvemlwYmFsbC8zN2Y1YjI3NTRmYWRjMjI5YzAwZjk0MTZiZDY4ZmI4ZDA0NTI5YTgxIiwidmVyc2lvbiI6InYyLjQuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/parallel/zipball/37f5b2754fadc229c00f9416bd68fb8d04529a81",
                 "reference": "37f5b2754fadc229c00f9416bd68fb8d04529a81",
                 "shasum": ""
             },
@@ -361,6 +361,7 @@
                     "Amp\\Parallel\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -397,8 +398,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-16T16:54:01+00:00",
-            "published-time": "2026-05-16T17:04:58+00:00"
+            "time": "2026-05-16T16:54:01+00:00"
         },
         {
             "name": "amphp/parser",
@@ -410,7 +410,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcGFyc2VyL3ppcGJhbGwvM2NmMWY4YjMyYTAxNzFkNGIxYmVkOTNkMjU2MTc2MzdhNzdjZGVkNyIsInZlcnNpb24iOiJ2MS4xLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/parser/zipball/3cf1f8b32a0171d4b1bed93d25617637a77cded7",
                 "reference": "3cf1f8b32a0171d4b1bed93d25617637a77cded7",
                 "shasum": ""
             },
@@ -428,6 +428,7 @@
                     "Amp\\Parser\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -459,8 +460,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-21T19:16:53+00:00",
-            "published-time": "2024-03-21T19:18:30+00:00"
+            "time": "2024-03-21T19:16:53+00:00"
         },
         {
             "name": "amphp/pipeline",
@@ -472,7 +472,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/pipeline/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcGlwZWxpbmUvemlwYmFsbC9jZjJkNjc2OTZjMjAxNWVhN2M3ZmQ4ZjZlYzVmOGVkN2MyZDE3YzE3IiwidmVyc2lvbiI6InYxLjIuNyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/pipeline/zipball/cf2d67696c2015ea7c7fd8f6ec5f8ed7c2d17c17",
                 "reference": "cf2d67696c2015ea7c7fd8f6ec5f8ed7c2d17c17",
                 "shasum": ""
             },
@@ -493,6 +493,7 @@
                     "Amp\\Pipeline\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -526,8 +527,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-26T14:50:43+00:00",
-            "published-time": "2026-07-26T15:13:19+00:00"
+            "time": "2026-07-26T14:50:43+00:00"
         },
         {
             "name": "amphp/process",
@@ -539,7 +539,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/process/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcHJvY2Vzcy96aXBiYWxsL2FjZmQ2NGY2OGRmNWZhN2YyZDY3NGM5M2QxOTg2YjJiZjVkMDI3NzAiLCJ2ZXJzaW9uIjoidjIuMS4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/amphp/process/zipball/acfd64f68df5fa7f2d674c93d1986b2bf5d02770",
                 "reference": "acfd64f68df5fa7f2d674c93d1986b2bf5d02770",
                 "shasum": ""
             },
@@ -565,6 +565,7 @@
                     "Amp\\Process\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -594,8 +595,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-07T16:33:32+00:00",
-            "published-time": "2026-11-07T16:36:48+00:00"
+            "time": "2026-11-07T16:33:32+00:00"
         },
         {
             "name": "amphp/serialization",
@@ -607,7 +607,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/serialization/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvc2VyaWFsaXphdGlvbi96aXBiYWxsL2ZkZjI4MzRkNzhjZWJiMDIwNWZiMjY3MjY3NmMxYjFlYjg0MzcxZjAiLCJ2ZXJzaW9uIjoidjEuMS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/amphp/serialization/zipball/fdf2834d78cebb0205fb2672676c1b1eb84371f0",
                 "reference": "fdf2834d78cebb0205fb2672676c1b1eb84371f0",
                 "shasum": ""
             },
@@ -630,6 +630,7 @@
                     "Amp\\Serialization\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -661,8 +662,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-04-05T15:59:53+00:00",
-            "published-time": "2026-04-05T16:03:16+00:00"
+            "time": "2026-04-05T15:59:53+00:00"
         },
         {
             "name": "amphp/socket",
@@ -674,7 +674,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/socket/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvc29ja2V0L3ppcGJhbGwvYjM0N2JlNWFmZjZiMmNjMDI1MjA4YmI0ZDg5NjYwN2ViNDcwYzAxOCIsInZlcnNpb24iOiJ2Mi40LjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/socket/zipball/b347be5aff6b2cc025208bb4d896607eb470c018",
                 "reference": "b347be5aff6b2cc025208bb4d896607eb470c018",
                 "shasum": ""
             },
@@ -707,6 +707,7 @@
                     "Amp\\Socket\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -745,8 +746,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-08-22T18:13:20+00:00",
-            "published-time": "2026-08-22T20:37:31+00:00"
+            "time": "2026-08-22T18:13:20+00:00"
         },
         {
             "name": "amphp/sync",
@@ -758,7 +758,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/sync/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvc3luYy96aXBiYWxsLzJmNzExYjY2NTEyNzA0NDlkNTljNzcwZmZiNTE4Njk4NjU1MDIyZjciLCJ2ZXJzaW9uIjoidjIuMy4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/amphp/sync/zipball/2f711b6651270449d59c770ffb518698655022f7",
                 "reference": "2f711b6651270449d59c770ffb518698655022f7",
                 "shasum": ""
             },
@@ -784,6 +784,7 @@
                     "Amp\\Sync\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -820,8 +821,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-14T17:37:39+00:00",
-            "published-time": "2026-10-31T17:39:05+00:00"
+            "time": "2026-06-14T17:37:39+00:00"
         },
         {
             "name": "composer/pcre",
@@ -833,7 +833,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/pcre/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIvcGNyZS96aXBiYWxsL2Q1YTM0MWIzZmI2MWYzMDAxOTcwOTQwYWZiMWQzMzI5NjhhMTgzZWQiLCJ2ZXJzaW9uIjoiMy40LjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/composer/pcre/zipball/d5a341b3fb61f3001970940afb1d332968a183ed",
                 "reference": "d5a341b3fb61f3001970940afb1d332968a183ed",
                 "shasum": ""
             },
@@ -865,6 +865,7 @@
                     "Composer\\Pcre\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -896,8 +897,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-07T11:47:49+00:00",
-            "published-time": "2026-06-11T12:12:37+00:00"
+            "time": "2026-06-07T11:47:49+00:00"
         },
         {
             "name": "composer/semver",
@@ -909,7 +909,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/semver/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIvc2VtdmVyL3ppcGJhbGwvZDkyNTQzYjdlZGU5YzRlYzZiNTk4NTNjZWZiMDYxZTM5ODY2ZDJjZiIsInZlcnNpb24iOiIzLjYuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/composer/semver/zipball/d92543b7ede9c4ec6b59853cefb061e39866d2cf",
                 "reference": "d92543b7ede9c4ec6b59853cefb061e39866d2cf",
                 "shasum": ""
             },
@@ -931,6 +931,7 @@
                     "Composer\\Semver\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -973,8 +974,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-29T09:13:34+00:00",
-            "published-time": "2026-10-29T09:14:11+00:00"
+            "time": "2026-10-29T09:13:34+00:00"
         },
         {
             "name": "composer/xdebug-handler",
@@ -986,7 +986,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/xdebug-handler/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIveGRlYnVnLWhhbmRsZXIvemlwYmFsbC82YzE5MjU1NjE2MzJlODNkNjBhNDQ0OTJlMGIzNDRjZjQ4YWI4NWVmIiwidmVyc2lvbiI6IjMuMC41IiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "reference": "6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "shasum": ""
             },
@@ -1006,6 +1006,7 @@
                     "Composer\\XdebugHandler\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1039,8 +1040,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-06T16:37:16+00:00",
-            "published-time": "2024-05-06T17:01:42+00:00"
+            "time": "2024-05-06T16:37:16+00:00"
         },
         {
             "name": "danog/advanced-json-rpc",
@@ -1052,7 +1052,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/danog/advanced-json-rpc/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZGFub2cvcGhwLWFkdmFuY2VkLWpzb24tcnBjL3ppcGJhbGwvYWU3MDNlYTdiNDgxMTc5N2ExMDU5MGI2MDc4ZGUwNWIzYjMzZGQ5MSIsInZlcnNpb24iOiJ2My4yLjMiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/danog/php-advanced-json-rpc/zipball/ae703ea7b4811797a10590b6078de05b3b33dd91",
                 "reference": "ae703ea7b4811797a10590b6078de05b3b33dd91",
                 "shasum": ""
             },
@@ -1073,6 +1073,7 @@
                     "AdvancedJsonRpc\\": "lib/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "ISC"
             ],
@@ -1091,8 +1092,7 @@
                 "issues": "https://github.com/danog/php-advanced-json-rpc/issues",
                 "source": "https://github.com/danog/php-advanced-json-rpc/tree/v3.2.3"
             },
-            "time": "2026-01-12T21:07:10+00:00",
-            "published-time": "2026-01-12T21:08:03+00:00"
+            "time": "2026-01-12T21:07:10+00:00"
         },
         {
             "name": "daverandom/libdns",
@@ -1104,7 +1104,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/daverandom/libdns/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvRGF2ZVJhbmRvbS9MaWJETlMvemlwYmFsbC9iODRjOTRlOGZlNmI3ZWU0YWVjZmUxMjFiZmUzYjYxNzdkMzAzYzhhIiwidmVyc2lvbiI6InYyLjEuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/DaveRandom/LibDNS/zipball/b84c94e8fe6b7ee4aecfe121bfe3b6177d303c8a",
                 "reference": "b84c94e8fe6b7ee4aecfe121bfe3b6177d303c8a",
                 "shasum": ""
             },
@@ -1124,6 +1124,7 @@
                     "LibDNS\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1135,8 +1136,7 @@
                 "issues": "https://github.com/DaveRandom/LibDNS/issues",
                 "source": "https://github.com/DaveRandom/LibDNS/tree/v2.1.0"
             },
-            "time": "2024-04-12T12:12:48+00:00",
-            "published-time": "2024-04-13T16:58:48+00:00"
+            "time": "2024-04-12T12:12:48+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1148,7 +1148,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/dnoegel/php-xdg-base-dir/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZG5vZWdlbC9waHAteGRnLWJhc2UtZGlyL3ppcGJhbGwvOGY4YTZlNDhjNWVjYjBmOTkxYzJmZGNmNWYxNTRhNDdkODVmOWZmZCIsInZlcnNpb24iOiJ2MC4xLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/dnoegel/php-xdg-base-dir/zipball/8f8a6e48c5ecb0f991c2fdcf5f154a47d85f9ffd",
                 "reference": "8f8a6e48c5ecb0f991c2fdcf5f154a47d85f9ffd",
                 "shasum": ""
             },
@@ -1164,6 +1164,7 @@
                     "XdgBaseDir\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1172,8 +1173,7 @@
                 "issues": "https://github.com/dnoegel/php-xdg-base-dir/issues",
                 "source": "https://github.com/dnoegel/php-xdg-base-dir/tree/v0.1.1"
             },
-            "time": "2019-12-04T15:06:13+00:00",
-            "published-time": "2019-12-04T16:08:16+00:00"
+            "time": "2019-12-04T15:06:13+00:00"
         },
         {
             "name": "doctrine/deprecations",
@@ -1185,7 +1185,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/doctrine/deprecations/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZG9jdHJpbmUvZGVwcmVjYXRpb25zL3ppcGJhbGwvZDRmZTNlNmZkOWJiOWU3MjU1N2ExOTY3NGY0NGQ4YWM3ZGI0YzZjYSIsInZlcnNpb24iOiIxLjEuNiIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/doctrine/deprecations/zipball/d4fe3e6fd9bb9e72557a19674f44d8ac7db4c6ca",
                 "reference": "d4fe3e6fd9bb9e72557a19674f44d8ac7db4c6ca",
                 "shasum": ""
             },
@@ -1211,6 +1211,7 @@
                     "Doctrine\\Deprecations\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1220,8 +1221,7 @@
                 "issues": "https://github.com/doctrine/deprecations/issues",
                 "source": "https://github.com/doctrine/deprecations/tree/1.1.6"
             },
-            "time": "2026-02-07T07:09:04+00:00",
-            "published-time": "2026-02-07T07:10:09+00:00"
+            "time": "2026-02-07T07:09:04+00:00"
         },
         {
             "name": "felixfbecker/language-server-protocol",
@@ -1233,7 +1233,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/felixfbecker/language-server-protocol/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZmVsaXhmYmVja2VyL3BocC1sYW5ndWFnZS1zZXJ2ZXItcHJvdG9jb2wvemlwYmFsbC9hOWUxMTNkYmM3ZDg0OWUzNWI4Nzc2ZGEzOWVkYWY0MzEzYjdiNmM5IiwidmVyc2lvbiI6InYxLjUuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/felixfbecker/php-language-server-protocol/zipball/a9e113dbc7d849e35b8776da39edaf4313b7b6c9",
                 "reference": "a9e113dbc7d849e35b8776da39edaf4313b7b6c9",
                 "shasum": ""
             },
@@ -1256,6 +1256,7 @@
                     "LanguageServerProtocol\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "ISC"
             ],
@@ -1276,8 +1277,7 @@
                 "issues": "https://github.com/felixfbecker/php-language-server-protocol/issues",
                 "source": "https://github.com/felixfbecker/php-language-server-protocol/tree/v1.5.3"
             },
-            "time": "2024-04-30T00:40:11+00:00",
-            "published-time": "2024-09-25T20:16:58+00:00"
+            "time": "2024-04-30T00:40:11+00:00"
         },
         {
             "name": "fidry/cpu-core-counter",
@@ -1289,7 +1289,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/fidry/cpu-core-counter/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlb2ZpZHJ5L2NwdS1jb3JlLWNvdW50ZXIvemlwYmFsbC9kMzg0YTdkMGQ2ZTY3YWE0OTczMjcyNjBjYTk1MDIzZTkyZGMyMDMyIiwidmVyc2lvbiI6IjEuNC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/theofidry/cpu-core-counter/zipball/d384a7d0d6e67aa497327260ca95023e92dc2032",
                 "reference": "d384a7d0d6e67aa497327260ca95023e92dc2032",
                 "shasum": ""
             },
@@ -1314,6 +1314,7 @@
                     "Fidry\\CpuCoreCounter\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1338,8 +1339,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-29T22:11:39+00:00",
-            "published-time": "2026-09-29T22:12:43+00:00"
+            "time": "2026-09-29T22:11:39+00:00"
         },
         {
             "name": "kelunik/certificate",
@@ -1351,7 +1351,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/kelunik/certificate/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mva2VsdW5pay9jZXJ0aWZpY2F0ZS96aXBiYWxsLzdlMDBkNDk4YzI2NGQ1ZWI0Zjc4YzY5ZjQxYzhiZDY3MTljMDE5OWUiLCJ2ZXJzaW9uIjoidjEuMS4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/kelunik/certificate/zipball/7e00d498c264d5eb4f78c69f41c8bd6719c0199e",
                 "reference": "7e00d498c264d5eb4f78c69f41c8bd6719c0199e",
                 "shasum": ""
             },
@@ -1374,6 +1374,7 @@
                     "Kelunik\\Certificate\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1396,8 +1397,7 @@
                 "issues": "https://github.com/kelunik/certificate/issues",
                 "source": "https://github.com/kelunik/certificate/tree/v1.1.3"
             },
-            "time": "2023-02-03T21:26:53+00:00",
-            "published-time": "2023-02-03T21:33:41+00:00"
+            "time": "2023-02-03T21:26:53+00:00"
         },
         {
             "name": "league/uri",
@@ -1409,7 +1409,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/league/uri/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlcGhwbGVhZ3VlL3VyaS96aXBiYWxsL2JlODllMjM4MmUzN2FjZGVmMjMyMjU5MDcxYWRlNTE4MDgyMTM5N2IiLCJ2ZXJzaW9uIjoiNy4xMC4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/thephpleague/uri/zipball/be89e2382e37acdef232259071ade5180821397b",
                 "reference": "be89e2382e37acdef232259071ade5180821397b",
                 "shasum": ""
             },
@@ -1447,6 +1447,7 @@
                     "League\\Uri\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1495,8 +1496,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-04T12:45:07+00:00",
-            "published-time": "2026-11-04T13:02:21+00:00"
+            "time": "2026-11-04T12:45:07+00:00"
         },
         {
             "name": "league/uri-interfaces",
@@ -1508,7 +1508,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/league/uri-interfaces/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlcGhwbGVhZ3VlL3VyaS1pbnRlcmZhY2VzL3ppcGJhbGwvZWE2NjI0MGNmZjRhZTlhNTZjZTg1ZDU3N2EwNGQwMzhiNzcxZTUxYyIsInZlcnNpb24iOiI3LjEwLjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/thephpleague/uri-interfaces/zipball/ea66240cff4ae9a56ce85d577a04d038b771e51c",
                 "reference": "ea66240cff4ae9a56ce85d577a04d038b771e51c",
                 "shasum": ""
             },
@@ -1536,6 +1536,7 @@
                     "League\\Uri\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1579,8 +1580,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-04T12:45:07+00:00",
-            "published-time": "2026-11-04T13:02:27+00:00"
+            "time": "2026-11-04T12:45:07+00:00"
         },
         {
             "name": "netresearch/jsonmapper",
@@ -1592,7 +1592,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/netresearch/jsonmapper/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY3dlaXNrZS9qc29ubWFwcGVyL3ppcGJhbGwvOTgwNjc0ZWZkZGE2NTkxMzQ5MmQyOWE4ZmQ1MWM4MjI3MGRkMzdiYiIsInZlcnNpb24iOiJ2NS4wLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/cweiske/jsonmapper/zipball/980674efdda65913492d29a8fd51c82270dd37bb",
                 "reference": "980674efdda65913492d29a8fd51c82270dd37bb",
                 "shasum": ""
             },
@@ -1613,6 +1613,7 @@
                     "JsonMapper": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "OSL-3.0"
             ],
@@ -1630,8 +1631,7 @@
                 "issues": "https://github.com/cweiske/jsonmapper/issues",
                 "source": "https://github.com/cweiske/jsonmapper/tree/v5.0.1"
             },
-            "time": "2026-02-22T16:28:03+00:00",
-            "published-time": "2026-02-22T16:29:33+00:00"
+            "time": "2026-02-22T16:28:03+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -1643,7 +1643,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/nikic/php-parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvbmlraWMvUEhQLVBhcnNlci96aXBiYWxsLzllMzNkYTk1NTNmZTc3ODZmMDk2MmIzNWY0ZTRlY2YwMWJlODlkZWYiLCJ2ZXJzaW9uIjoidjUuOS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/9e33da9553fe7786f0962b35f4e4ecf01be89def",
                 "reference": "9e33da9553fe7786f0962b35f4e4ecf01be89def",
                 "shasum": ""
             },
@@ -1670,6 +1670,7 @@
                     "PhpParser\\": "lib/PhpParser"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1687,8 +1688,7 @@
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
                 "source": "https://github.com/nikic/PHP-Parser/tree/v5.9.0"
             },
-            "time": "2026-09-13T18:51:52+00:00",
-            "published-time": "2026-09-13T18:53:16+00:00"
+            "time": "2026-09-13T18:51:52+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -1700,7 +1700,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpdocumentor/reflection-common/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwRG9jdW1lbnRvci9SZWZsZWN0aW9uQ29tbW9uL3ppcGJhbGwvZWUxNWE1YTIwMjJjODM4MzkwNmIyMjUwNTVlOTQ5NmE2YTVlNmUzYiIsInZlcnNpb24iOiIyLjIuMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionCommon/zipball/ee15a5a2022c8383906b225055e9496a6a5e6e3b",
                 "reference": "ee15a5a2022c8383906b225055e9496a6a5e6e3b",
                 "shasum": ""
             },
@@ -1723,6 +1723,7 @@
                     "phpDocumentor\\Reflection\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1745,8 +1746,7 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionCommon/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionCommon/tree/2.2.1"
             },
-            "time": "2025-11-10T21:21:55+00:00",
-            "published-time": "2026-09-27T10:14:49+00:00"
+            "time": "2025-11-10T21:21:55+00:00"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -1758,7 +1758,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpdocumentor/reflection-docblock/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwRG9jdW1lbnRvci9SZWZsZWN0aW9uRG9jQmxvY2svemlwYmFsbC83YmFlNjc1MjBhYTlmNWVjYzUwNmQ2NDY4MTBiZDQwZDlkYTU0NTgyIiwidmVyc2lvbiI6IjYuMC4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/7bae67520aa9f5ecc506d646810bd40d9da54582",
                 "reference": "7bae67520aa9f5ecc506d646810bd40d9da54582",
                 "shasum": ""
             },
@@ -1792,6 +1792,7 @@
                     "phpDocumentor\\Reflection\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1810,8 +1811,7 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/6.0.3"
             },
-            "time": "2026-03-18T20:49:53+00:00",
-            "published-time": "2026-03-18T20:51:16+00:00"
+            "time": "2026-03-18T20:49:53+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -1823,7 +1823,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpdocumentor/type-resolver/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwRG9jdW1lbnRvci9UeXBlUmVzb2x2ZXIvemlwYmFsbC9kYmUyMTMzYmIyM2UyZTMzYTY4MzRmNGVkNDE3ZjI0YTFiMTY3NzY5IiwidmVyc2lvbiI6IjIuMS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/dbe2133bb23e2e33a6834f4ed417f24a1b167769",
                 "reference": "dbe2133bb23e2e33a6834f4ed417f24a1b167769",
                 "shasum": ""
             },
@@ -1854,6 +1854,7 @@
                     "phpDocumentor\\Reflection\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1868,8 +1869,7 @@
                 "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
                 "source": "https://github.com/phpDocumentor/TypeResolver/tree/2.1.0"
             },
-            "time": "2026-09-27T19:32:54+00:00",
-            "published-time": "2026-09-28T18:39:55+00:00"
+            "time": "2026-09-27T19:32:54+00:00"
         },
         {
             "name": "phpstan/phpdoc-parser",
@@ -1881,7 +1881,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpstan/phpdoc-parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwc3Rhbi9waHBkb2MtcGFyc2VyL3ppcGJhbGwvYWY4ZTg0MDU1MTAzMWQyNTRjZmRiM2ExOGE2MmMzNDcwYTMwOWMxMCIsInZlcnNpb24iOiIyLjQuMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/af8e840551031d254cfdb3a18a62c3470a309c10",
                 "reference": "af8e840551031d254cfdb3a18a62c3470a309c10",
                 "shasum": ""
             },
@@ -1907,6 +1907,7 @@
                     ]
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1915,8 +1916,7 @@
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
                 "source": "https://github.com/phpstan/phpdoc-parser/tree/2.4.1"
             },
-            "time": "2026-10-30T19:36:28+00:00",
-            "published-time": "2026-10-30T19:37:11+00:00"
+            "time": "2026-10-30T19:36:28+00:00"
         },
         {
             "name": "psalm/plugin-laravel",
@@ -1928,7 +1928,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psalm/plugin-laravel/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcHNhbG0vcHNhbG0tcGx1Z2luLWxhcmF2ZWwvemlwYmFsbC9hZjE3ZmFlMzcwYjc1NzYxYWIwZGNmNDQ0MGE3YjU3ZDFmZGEyNDEyIiwidmVyc2lvbiI6InY0LjE5LjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-laravel/zipball/af17fae370b75761ab0dcf4440a7b57d1fda2412",
                 "reference": "af17fae370b75761ab0dcf4440a7b57d1fda2412",
                 "shasum": ""
             },
@@ -1971,6 +1971,7 @@
                     "Psalm\\LaravelPlugin\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2004,8 +2005,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-06T23:22:49+00:00",
-            "published-time": "2026-11-07T00:59:42+00:00"
+            "time": "2026-11-06T23:22:49+00:00"
         },
         {
             "name": "psalm/plugin-mockery",
@@ -2017,7 +2017,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psalm/plugin-mockery/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcHNhbG0vcHNhbG0tcGx1Z2luLW1vY2tlcnkvemlwYmFsbC9kZGZmNDdkZDA5NWRjM2M0NzIyNGEzZjZiZjEzN2UyODU3MGVmMDIyIiwidmVyc2lvbiI6IjEuMy4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-mockery/zipball/ddff47dd095dc3c47224a3f6bf137e28570ef022",
                 "reference": "ddff47dd095dc3c47224a3f6bf137e28570ef022",
                 "shasum": ""
             },
@@ -2051,6 +2051,7 @@
                     ]
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2065,39 +2066,35 @@
                 "issues": "https://github.com/psalm/psalm-plugin-mockery/issues",
                 "source": "https://github.com/psalm/psalm-plugin-mockery/tree/1.3.2"
             },
-            "time": "2026-10-28T12:21:43+00:00",
-            "published-time": "2026-10-28T12:21:58+00:00"
+            "time": "2026-10-28T12:21:43+00:00"
         },
         {
             "name": "psalm/plugin-phpunit",
-            "version": "0.21.1",
+            "version": "0.22.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/psalm/psalm-plugin-phpunit.git",
-                "reference": "01a0871ba04710331779a3a80c3caabc5427339c"
+                "reference": "6e5ca7dd019e502f24824c138cb54fc8f485d2e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psalm/plugin-phpunit/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcHNhbG0vcHNhbG0tcGx1Z2luLXBocHVuaXQvemlwYmFsbC8wMWEwODcxYmEwNDcxMDMzMTc3OWEzYTgwYzNjYWFiYzU0MjczMzljIiwidmVyc2lvbiI6IjAuMjEuMSIsImZpbGVUeXBlIjoiemlwIn0=",
-                "reference": "01a0871ba04710331779a3a80c3caabc5427339c",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-phpunit/zipball/6e5ca7dd019e502f24824c138cb54fc8f485d2e2",
+                "reference": "6e5ca7dd019e502f24824c138cb54fc8f485d2e2",
                 "shasum": ""
             },
             "require": {
                 "ext-simplexml": "*",
                 "php": ">=8.1",
-                "psalm/psalm-plugin-api": "^0.4"
+                "vimeo/psalm": "^6 || ^7.2 || dev-master"
             },
             "conflict": {
                 "phpspec/prophecy": "<1.20.0",
-                "phpspec/prophecy-phpunit": "<2.3.0",
-                "phpunit/phpunit": "<8.5.1"
+                "phpspec/prophecy-phpunit": "<2.3.0"
             },
             "require-dev": {
-                "php": "^7.3 || ^8.0",
-                "phpunit/phpunit": "^10.0 || ^11.0 || ^12.0",
-                "squizlabs/php_codesniffer": "^3.3.1",
-                "vimeo/psalm": "^7|dev-master",
-                "weirdan/prophecy-shim": "^1.0 || ^2.0"
+                "phpspec/prophecy-phpunit": "^2.3",
+                "phpunit/phpunit": "^10.0 || ^11.0 || ^12.0 || ^13.0",
+                "squizlabs/php_codesniffer": "^3.3.1"
             },
             "type": "psalm-plugin",
             "extra": {
@@ -2110,6 +2107,7 @@
                     "Psalm\\PhpUnitPlugin\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2122,65 +2120,9 @@
             "description": "Psalm plugin for PHPUnit",
             "support": {
                 "issues": "https://github.com/psalm/psalm-plugin-phpunit/issues",
-                "source": "https://github.com/psalm/psalm-plugin-phpunit/tree/0.21.1"
+                "source": "https://github.com/psalm/psalm-plugin-phpunit/tree/0.22.2"
             },
-            "time": "2026-10-20T11:28:19+00:00",
-            "published-time": "2026-10-20T12:29:51+00:00"
-        },
-        {
-            "name": "psalm/plugin-sabre-event",
-            "version": "0.2.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/psalm/psalm-plugin-sabre-event.git",
-                "reference": "49eaea05b492526ab4d5f9baeb085f2a7129366a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psalm/plugin-sabre-event/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcHNhbG0vcHNhbG0tcGx1Z2luLXNhYnJlLWV2ZW50L3ppcGJhbGwvNDllYWVhMDViNDkyNTI2YWI0ZDVmOWJhZWIwODVmMmE3MTI5MzY2YSIsInZlcnNpb24iOiIwLjIuMSIsImZpbGVUeXBlIjoiemlwIn0=",
-                "reference": "49eaea05b492526ab4d5f9baeb085f2a7129366a",
-                "shasum": ""
-            },
-            "require": {
-                "psalm/psalm-plugin-api": "^0.4",
-                "vimeo/psalm": "^7|dev-master"
-            },
-            "conflict": {
-                "sabre/event": "<5.0"
-            },
-            "require-dev": {
-                "sabre/event": "^5",
-                "squizlabs/php_codesniffer": "^3.3"
-            },
-            "type": "psalm-plugin",
-            "extra": {
-                "psalm": {
-                    "pluginClass": "Psalm\\SabreEventPlugin\\Plugin"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Psalm\\SabreEventPlugin\\": [
-                        "."
-                    ]
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Matt Brown",
-                    "email": "github@muglug.com"
-                }
-            ],
-            "description": "Psalm plugin for sabre/event",
-            "support": {
-                "issues": "https://github.com/psalm/psalm-plugin-sabre-event/issues",
-                "source": "https://github.com/psalm/psalm-plugin-sabre-event/tree/0.2.1"
-            },
-            "time": "2026-10-28T12:24:48+00:00",
-            "published-time": "2026-10-28T12:27:30+00:00"
+            "time": "2026-11-09T20:48:04+00:00"
         },
         {
             "name": "psalm/plugin-symfony",
@@ -2192,7 +2134,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psalm/plugin-symfony/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcHNhbG0vcHNhbG0tcGx1Z2luLXN5bWZvbnkvemlwYmFsbC9hMzRjMDNhYWViMTQ4ZGEwY2U4MDcxODc3MTczOTJiNmU5YjA4NzM4IiwidmVyc2lvbiI6InY1LjEwLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-symfony/zipball/a34c03aaeb148da0ce807187717392b6e9b08738",
                 "reference": "a34c03aaeb148da0ce807187717392b6e9b08738",
                 "shasum": ""
             },
@@ -2238,6 +2180,7 @@
                     "Psalm\\SymfonyPsalmPlugin\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2252,8 +2195,7 @@
                 "issues": "https://github.com/psalm/psalm-plugin-symfony/issues",
                 "source": "https://github.com/psalm/psalm-plugin-symfony/tree/v5.10.1"
             },
-            "time": "2026-11-06T09:33:33+00:00",
-            "published-time": "2026-11-06T09:35:59+00:00"
+            "time": "2026-11-06T09:33:33+00:00"
         },
         {
             "name": "psalm/psalm-plugin-api",
@@ -2265,7 +2207,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psalm/psalm-plugin-api/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcHNhbG0vcHNhbG0tcGx1Z2luLWFwaS96aXBiYWxsL2U1MmJkZjI4MjU3NTBmMmUxYmM5M2YxYTUxNmQ3ZTVlYjg3YWZhZDciLCJ2ZXJzaW9uIjoiMC40LjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-api/zipball/e52bdf2825750f2e1bc93f1a516d7e5eb87afad7",
                 "reference": "e52bdf2825750f2e1bc93f1a516d7e5eb87afad7",
                 "shasum": ""
             },
@@ -2273,6 +2215,7 @@
                 "vimeo/psalm": "<7.0.0-rc3"
             },
             "type": "metapackage",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2287,8 +2230,7 @@
                 "issues": "https://github.com/psalm/psalm-plugin-api/issues",
                 "source": "https://github.com/psalm/psalm-plugin-api/tree/0.4.1"
             },
-            "time": "2026-10-20T09:28:00+00:00",
-            "published-time": "2026-10-20T11:00:49+00:00"
+            "time": "2026-10-20T09:28:00+00:00"
         },
         {
             "name": "psr/container",
@@ -2300,7 +2242,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/container/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9jb250YWluZXIvemlwYmFsbC9jNzFlY2M1NmRmZTU0MWRiZDkwYzUzNjA0NzRmYmM0MDVmOGQ1OTYzIiwidmVyc2lvbiI6IjIuMC4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "reference": "c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "shasum": ""
             },
@@ -2318,6 +2260,7 @@
                     "Psr\\Container\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2340,8 +2283,7 @@
                 "issues": "https://github.com/php-fig/container/issues",
                 "source": "https://github.com/php-fig/container/tree/2.0.2"
             },
-            "time": "2021-11-05T16:47:00+00:00",
-            "published-time": "2021-11-05T16:53:27+00:00"
+            "time": "2021-11-05T16:47:00+00:00"
         },
         {
             "name": "psr/http-factory",
@@ -2353,7 +2295,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/http-factory/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9odHRwLWZhY3RvcnkvemlwYmFsbC8yYjQ3NjVmZGRmZTNiNTA4YWM2MmY4MjllODUyYjE1MDFkM2Y2ZThhIiwidmVyc2lvbiI6IjEuMS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/http-factory/zipball/2b4765fddfe3b508ac62f829e852b1501d3f6e8a",
                 "reference": "2b4765fddfe3b508ac62f829e852b1501d3f6e8a",
                 "shasum": ""
             },
@@ -2372,6 +2314,7 @@
                     "Psr\\Http\\Message\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2395,8 +2338,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-factory"
             },
-            "time": "2024-04-15T12:06:14+00:00",
-            "published-time": "2024-05-10T07:32:19+00:00"
+            "time": "2024-04-15T12:06:14+00:00"
         },
         {
             "name": "psr/http-message",
@@ -2408,7 +2350,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/http-message/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9odHRwLW1lc3NhZ2UvemlwYmFsbC80MDJkMzViY2I5MmM3MGMwMjZkMWE2YTk4ODNmMDZiMmVhZDIzZDcxIiwidmVyc2lvbiI6IjIuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/402d35bcb92c70c026d1a6a9883f06b2ead23d71",
                 "reference": "402d35bcb92c70c026d1a6a9883f06b2ead23d71",
                 "shasum": ""
             },
@@ -2426,6 +2368,7 @@
                     "Psr\\Http\\Message\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2448,8 +2391,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-message/tree/2.0"
             },
-            "time": "2023-04-04T09:54:51+00:00",
-            "published-time": "2023-04-04T09:55:35+00:00"
+            "time": "2023-04-04T09:54:51+00:00"
         },
         {
             "name": "psr/log",
@@ -2461,7 +2403,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/log/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9sb2cvemlwYmFsbC9mMTZlMWQ1ODYzZTM3ZjhkOGMyYTAxNzE5ZjViMzRiYWEyYjcxNGQzIiwidmVyc2lvbiI6IjMuMC4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "shasum": ""
             },
@@ -2479,6 +2421,7 @@
                     "Psr\\Log\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2498,8 +2441,7 @@
             "support": {
                 "source": "https://github.com/php-fig/log/tree/3.0.2"
             },
-            "time": "2024-09-11T13:17:53+00:00",
-            "published-time": "2024-09-11T13:21:14+00:00"
+            "time": "2024-09-11T13:17:53+00:00"
         },
         {
             "name": "revolt/event-loop",
@@ -2511,7 +2453,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/revolt/event-loop/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmV2b2x0cGhwL2V2ZW50LWxvb3AvemlwYmFsbC80NDA2MWNmNTEzZTUzYzYyMDAzNzJmYzkzNWFjNDIyNzE1NjYyOTVkIiwidmVyc2lvbiI6InYxLjAuOSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/revoltphp/event-loop/zipball/44061cf513e53c6200372fc935ac42271566295d",
                 "reference": "44061cf513e53c6200372fc935ac42271566295d",
                 "shasum": ""
             },
@@ -2535,6 +2477,7 @@
                     "Revolt\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2570,8 +2513,7 @@
                 "issues": "https://github.com/revoltphp/event-loop/issues",
                 "source": "https://github.com/revoltphp/event-loop/tree/v1.0.9"
             },
-            "time": "2026-05-16T17:55:38+00:00",
-            "published-time": "2026-05-16T18:04:08+00:00"
+            "time": "2026-05-16T17:55:38+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -2583,7 +2525,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/diff/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZGlmZi96aXBiYWxsL2I0Y2NkODU3MTI3ZGI1ZDQxYTViNjc2ZjI0YjUxMzcxZDc2ZDg1NDQiLCJ2ZXJzaW9uIjoiNi4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "reference": "b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "shasum": ""
             },
@@ -2605,6 +2547,7 @@
                     "src/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -2637,8 +2580,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-07-03T04:53:05+00:00",
-            "published-time": "2024-07-03T04:53:18+00:00"
+            "time": "2024-07-03T04:53:05+00:00"
         },
         {
             "name": "spatie/array-to-xml",
@@ -2650,7 +2592,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/spatie/array-to-xml/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3BhdGllL2FycmF5LXRvLXhtbC96aXBiYWxsLzg4YjJmMzg1MmE5MjJkZDczMTc3YTY4OTM4ZjhlYjJlYzcwYzcyMjQiLCJ2ZXJzaW9uIjoiMy40LjQiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/spatie/array-to-xml/zipball/88b2f3852a922dd73177a68938f8eb2ec70c7224",
                 "reference": "88b2f3852a922dd73177a68938f8eb2ec70c7224",
                 "shasum": ""
             },
@@ -2674,6 +2616,7 @@
                     "Spatie\\ArrayToXml\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2705,8 +2648,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-12-15T09:00:41+00:00",
-            "published-time": "2025-12-15T09:00:51+00:00"
+            "time": "2025-12-15T09:00:41+00:00"
         },
         {
             "name": "symfony/console",
@@ -2718,7 +2660,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/console/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9jb25zb2xlL3ppcGJhbGwvODE5NTdjMjQ0MGMwNWM5NjJmZTgyOTFmMzE4ZGU2ZTg1ZjhkYjMzMCIsInZlcnNpb24iOiJ2Ny40LjIzIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/console/zipball/81957c2440c05c962fe8291f318de6e85f8db330",
                 "reference": "81957c2440c05c962fe8291f318de6e85f8db330",
                 "shasum": ""
             },
@@ -2761,6 +2703,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2803,8 +2746,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-03T21:47:07+00:00",
-            "published-time": "2026-11-04T11:27:31+00:00"
+            "time": "2026-11-03T21:47:07+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -2816,7 +2758,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/deprecation-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9kZXByZWNhdGlvbi1jb250cmFjdHMvemlwYmFsbC9mZWIxZWRmNGU1NDZhZjNiODVjNWNhZWJlODM1OWEyMGRiMjMwY2EzIiwidmVyc2lvbiI6InYzLjguMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/feb1edf4e546af3b85c5caebe8359a20db230ca3",
                 "reference": "feb1edf4e546af3b85c5caebe8359a20db230ca3",
                 "shasum": ""
             },
@@ -2838,6 +2780,7 @@
                     "function.php"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2874,8 +2817,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-16T14:15:10+00:00",
-            "published-time": "2026-11-04T11:25:34+00:00"
+            "time": "2026-09-16T14:15:10+00:00"
         },
         {
             "name": "symfony/filesystem",
@@ -2887,7 +2829,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/filesystem/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9maWxlc3lzdGVtL3ppcGJhbGwvNTNkNjA5ZGE2NjU3OGRhZDVhMzlmZTI5MGU4ZjkyNGVjOGYwNWU5MyIsInZlcnNpb24iOiJ2Ny40LjIzIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/53d609da66578dad5a39fe290e8f924ec8f05e93",
                 "reference": "53d609da66578dad5a39fe290e8f924ec8f05e93",
                 "shasum": ""
             },
@@ -2908,6 +2850,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2944,8 +2887,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T08:27:22+00:00",
-            "published-time": "2026-11-04T11:28:00+00:00"
+            "time": "2026-11-04T08:27:22+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -2957,7 +2899,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-ctype/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1jdHlwZS96aXBiYWxsLzE0MTA0NmE4Zjk0Nzc5NDhmZjI4NGZhNjViZTIwOTViYWFmYjk0ZjIiLCJ2ZXJzaW9uIjoidjEuMzcuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/141046a8f9477948ff284fa65be2095baafb94f2",
                 "reference": "141046a8f9477948ff284fa65be2095baafb94f2",
                 "shasum": ""
             },
@@ -2985,6 +2927,7 @@
                     "Symfony\\Polyfill\\Ctype\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3027,8 +2970,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-10T16:19:22+00:00",
-            "published-time": "2026-04-26T14:44:50+00:00"
+            "time": "2026-04-10T16:19:22+00:00"
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
@@ -3040,7 +2982,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-intl-grapheme/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1pbnRsLWdyYXBoZW1lL3ppcGJhbGwvNWE4ZjMzYzg3YWVlY2ZmY2UyNGU3MjFiNTA2NGZhYjA1ZjRiZWNmOCIsInZlcnNpb24iOiJ2MS40My4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-grapheme/zipball/5a8f33c87aeecffce24e721b5064fab05f4becf8",
                 "reference": "5a8f33c87aeecffce24e721b5064fab05f4becf8",
                 "shasum": ""
             },
@@ -3065,6 +3007,7 @@
                     "Symfony\\Polyfill\\Intl\\Grapheme\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3109,8 +3052,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-15T09:18:53+00:00",
-            "published-time": "2026-10-28T10:07:44+00:00"
+            "time": "2026-10-15T09:18:53+00:00"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
@@ -3122,7 +3064,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-intl-normalizer/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1pbnRsLW5vcm1hbGl6ZXIvemlwYmFsbC9lYmQ1N2NjYzdlZGI5M2Q2MzJlMTg0ZWZiZTc2OTNkMjUxN2JhYjNiIiwidmVyc2lvbiI6InYxLjQzLjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/ebd57ccc7edb93d632e184efbe7693d2517bab3b",
                 "reference": "ebd57ccc7edb93d632e184efbe7693d2517bab3b",
                 "shasum": ""
             },
@@ -3150,6 +3092,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3194,8 +3137,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T22:02:09+00:00",
-            "published-time": "2026-09-30T10:23:47+00:00"
+            "time": "2026-09-23T22:02:09+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -3207,7 +3149,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-mbstring/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1tYnN0cmluZy96aXBiYWxsLzEyMjg4OWVkMjRkYzAwMDE2NWJjYmZkNzdlYzQxMmYxNWNiZGZjNmEiLCJ2ZXJzaW9uIjoidjEuNDMuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/122889ed24dc000165bcbfd77ec412f15cbdfc6a",
                 "reference": "122889ed24dc000165bcbfd77ec412f15cbdfc6a",
                 "shasum": ""
             },
@@ -3236,6 +3178,7 @@
                     "Symfony\\Polyfill\\Mbstring\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3279,8 +3222,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-28T09:35:49+00:00",
-            "published-time": "2026-10-28T10:07:45+00:00"
+            "time": "2026-10-28T09:35:49+00:00"
         },
         {
             "name": "symfony/polyfill-php84",
@@ -3292,7 +3234,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-php84/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1waHA4NC96aXBiYWxsLzIyYzY1NDg0OTljYmU1YzViYjA3MmZjMGM0MjMxMmRmZjA2MmEwMTUiLCJ2ZXJzaW9uIjoidjEuNDMuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-php84/zipball/22c6548499cbe5c5bb072fc0c42312dff062a015",
                 "reference": "22c6548499cbe5c5bb072fc0c42312dff062a015",
                 "shasum": ""
             },
@@ -3317,6 +3259,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3359,8 +3302,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T22:01:09+00:00",
-            "published-time": "2026-09-30T10:23:33+00:00"
+            "time": "2026-09-23T22:01:09+00:00"
         },
         {
             "name": "symfony/service-contracts",
@@ -3372,7 +3314,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/service-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zZXJ2aWNlLWNvbnRyYWN0cy96aXBiYWxsLzA1Mjg1MmE5NmZkNWU1ZWJkYjYxN2RiYTIyMDMxZTQxYTMzMDBmYjUiLCJ2ZXJzaW9uIjoidjMuOC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/052852a96fd5e5ebdb617dba22031e41a3300fb5",
                 "reference": "052852a96fd5e5ebdb617dba22031e41a3300fb5",
                 "shasum": ""
             },
@@ -3402,6 +3344,7 @@
                     "/Test/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3446,8 +3389,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-20T17:38:25+00:00",
-            "published-time": "2026-11-04T11:25:33+00:00"
+            "time": "2026-10-20T17:38:25+00:00"
         },
         {
             "name": "symfony/string",
@@ -3459,7 +3401,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/string/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zdHJpbmcvemlwYmFsbC84ZGZmN2RhM2E1NjYzOGYxZDE4OWM1MzY4MTgzMjk0MTAyZGU0Y2VkIiwidmVyc2lvbiI6InY3LjQuMjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/string/zipball/8dff7da3a56638f1d189c5368183294102de4ced",
                 "reference": "8dff7da3a56638f1d189c5368183294102de4ced",
                 "shasum": ""
             },
@@ -3493,6 +3435,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3537,21 +3480,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-23T16:51:52+00:00",
-            "published-time": "2026-10-28T18:21:18+00:00"
+            "time": "2026-10-23T16:51:52+00:00"
         },
         {
             "name": "vimeo/psalm",
-            "version": "7.0.0",
+            "version": "7.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vimeo/psalm.git",
-                "reference": "618ca49c75d3fd828e58ee76f166329bb56794e7"
+                "reference": "127f608db981d5e1d023603514f7bbfcaae8f570"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/vimeo/psalm/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdmltZW8vcHNhbG0vemlwYmFsbC82MThjYTQ5Yzc1ZDNmZDgyOGU1OGVlNzZmMTY2MzI5YmI1Njc5NGU3IiwidmVyc2lvbiI6IjcuMC4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
-                "reference": "618ca49c75d3fd828e58ee76f166329bb56794e7",
+                "url": "https://api.github.com/repos/vimeo/psalm/zipball/127f608db981d5e1d023603514f7bbfcaae8f570",
+                "reference": "127f608db981d5e1d023603514f7bbfcaae8f570",
                 "shasum": ""
             },
             "require": {
@@ -3577,8 +3519,7 @@
                 "php-64bit": "~8.2.27 || ~8.3.16 || ~8.4.3 || ~8.5.0 || ~8.6.0",
                 "psalm/plugin-laravel": "^4.17.4",
                 "psalm/plugin-mockery": "^1.3.2",
-                "psalm/plugin-phpunit": "^0.21",
-                "psalm/plugin-sabre-event": "^0.2.1",
+                "psalm/plugin-phpunit": "^0.21 || ^0.22 || ^1.0",
                 "psalm/plugin-symfony": "^5.9.1",
                 "psalm/psalm-plugin-api": "0.4.1",
                 "sebastian/diff": "^4.0 || ^5.0 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
@@ -3607,7 +3548,8 @@
             },
             "suggest": {
                 "ext-curl": "In order to send data to shepherd",
-                "ext-igbinary": "^2.0.5 is required, used to serialize caching data"
+                "ext-igbinary": "^2.0.5 is required, used to serialize caching data",
+                "ext-zstd": ">=0.15.0 is required, used to compress caching data"
             },
             "bin": [
                 "psalm",
@@ -3634,6 +3576,7 @@
                     "Psalm\\": "src/Psalm/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3658,8 +3601,7 @@
                 "issues": "https://github.com/vimeo/psalm/issues",
                 "source": "https://github.com/vimeo/psalm"
             },
-            "time": "2026-11-02T16:56:48+00:00",
-            "published-time": "2026-11-02T16:58:22+00:00"
+            "time": "2026-11-09T22:55:03+00:00"
         },
         {
             "name": "webmozart/assert",
@@ -3671,7 +3613,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/webmozart/assert/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvd2VibW96YXJ0cy9hc3NlcnQvemlwYmFsbC84YTE2MzcwNmJiY2FjNjEzNzMzZGJhMDNmNTFlMTNiNWViMWJiODE5IiwidmVyc2lvbiI6IjIuNS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/8a163706bbcac613733dba03f51e13b5eb1bb819",
                 "reference": "8a163706bbcac613733dba03f51e13b5eb1bb819",
                 "shasum": ""
             },
@@ -3701,6 +3643,7 @@
                     "Webmozart\\Assert\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3724,19 +3667,18 @@
                 "issues": "https://github.com/webmozarts/assert/issues",
                 "source": "https://github.com/webmozarts/assert/tree/2.5.0"
             },
-            "time": "2026-10-05T23:14:19+00:00",
-            "published-time": "2026-10-05T23:14:25+00:00"
+            "time": "2026-10-05T23:14:19+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {},
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": ">=8.2"
     },
-    "platform-dev": {},
-    "plugin-api-version": "2.11.0"
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
 }
