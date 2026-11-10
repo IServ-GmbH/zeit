@@ -2,14 +2,5 @@
   "require": {
     "php": ">=8.2",
     "phpstan/phpstan": "^2.3"
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.iserv.eu"
-    },
-    {
-      "packagist": false
-    }
-  ]
+  }
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2677b2e249fa640dcdc7491d248e96cb",
+    "content-hash": "8cb99c3f02c74666e1f0551398d60232",
     "packages": [
         {
             "name": "amphp/amp",
@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/amp/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvYW1wL3ppcGJhbGwvNzNjMzhiMzIzZmY4ZDc5MGFiZjBmNzZjNTZmY2M4OTJiZGE0MTExYSIsInZlcnNpb24iOiJ2My4xLjMiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/amp/zipball/73c38b323ff8d790abf0f76c56fcc892bda4111a",
                 "reference": "73c38b323ff8d790abf0f76c56fcc892bda4111a",
                 "shasum": ""
             },
@@ -40,6 +40,7 @@
                     "Amp\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -96,7 +97,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/byte-stream/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvYnl0ZS1zdHJlYW0vemlwYmFsbC8xNTExY2RmZGY4NjhhNzA2MzA3MzU4YmQ0OGYxNTVjM2RmMmM0OTBmIiwidmVyc2lvbiI6InYyLjEuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/byte-stream/zipball/1511cdfdf868a706307358bd48f155c3df2c490f",
                 "reference": "1511cdfdf868a706307358bd48f155c3df2c490f",
                 "shasum": ""
             },
@@ -125,6 +126,7 @@
                     "Amp\\ByteStream\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -170,7 +172,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/cache/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvY2FjaGUvemlwYmFsbC80NjkxMmUzODdlNmFhOTQ5MzNiNjFlYTFlYWQ5Y2Y3NTQwYjc3OTdjIiwidmVyc2lvbiI6InYyLjAuMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/cache/zipball/46912e387e6aa94933b61ea1ead9cf7540b7797c",
                 "reference": "46912e387e6aa94933b61ea1ead9cf7540b7797c",
                 "shasum": ""
             },
@@ -193,6 +195,7 @@
                     "Amp\\Cache\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -234,7 +237,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/dns/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvZG5zL3ppcGJhbGwvMmUyYjRkYWEyMTRhMThiMTUyODkxOWQ2NzgxOTg4ZWE2NWE5YTQ3ZCIsInZlcnNpb24iOiJ2Mi40LjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/dns/zipball/2e2b4daa214a18b1528919d6781988ea65a9a47d",
                 "reference": "2e2b4daa214a18b1528919d6781988ea65a9a47d",
                 "shasum": ""
             },
@@ -265,6 +268,7 @@
                     "Amp\\Dns\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -322,7 +326,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/parallel/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcGFyYWxsZWwvemlwYmFsbC8zN2Y1YjI3NTRmYWRjMjI5YzAwZjk0MTZiZDY4ZmI4ZDA0NTI5YTgxIiwidmVyc2lvbiI6InYyLjQuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/parallel/zipball/37f5b2754fadc229c00f9416bd68fb8d04529a81",
                 "reference": "37f5b2754fadc229c00f9416bd68fb8d04529a81",
                 "shasum": ""
             },
@@ -357,6 +361,7 @@
                     "Amp\\Parallel\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -405,7 +410,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcGFyc2VyL3ppcGJhbGwvM2NmMWY4YjMyYTAxNzFkNGIxYmVkOTNkMjU2MTc2MzdhNzdjZGVkNyIsInZlcnNpb24iOiJ2MS4xLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/parser/zipball/3cf1f8b32a0171d4b1bed93d25617637a77cded7",
                 "reference": "3cf1f8b32a0171d4b1bed93d25617637a77cded7",
                 "shasum": ""
             },
@@ -423,6 +428,7 @@
                     "Amp\\Parser\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -466,7 +472,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/pipeline/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcGlwZWxpbmUvemlwYmFsbC9jZjJkNjc2OTZjMjAxNWVhN2M3ZmQ4ZjZlYzVmOGVkN2MyZDE3YzE3IiwidmVyc2lvbiI6InYxLjIuNyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/amphp/pipeline/zipball/cf2d67696c2015ea7c7fd8f6ec5f8ed7c2d17c17",
                 "reference": "cf2d67696c2015ea7c7fd8f6ec5f8ed7c2d17c17",
                 "shasum": ""
             },
@@ -487,6 +493,7 @@
                     "Amp\\Pipeline\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -532,7 +539,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/process/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvcHJvY2Vzcy96aXBiYWxsL2FjZmQ2NGY2OGRmNWZhN2YyZDY3NGM5M2QxOTg2YjJiZjVkMDI3NzAiLCJ2ZXJzaW9uIjoidjIuMS4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/amphp/process/zipball/acfd64f68df5fa7f2d674c93d1986b2bf5d02770",
                 "reference": "acfd64f68df5fa7f2d674c93d1986b2bf5d02770",
                 "shasum": ""
             },
@@ -558,6 +565,7 @@
                     "Amp\\Process\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -599,7 +607,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/serialization/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvc2VyaWFsaXphdGlvbi96aXBiYWxsL2ZkZjI4MzRkNzhjZWJiMDIwNWZiMjY3MjY3NmMxYjFlYjg0MzcxZjAiLCJ2ZXJzaW9uIjoidjEuMS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/amphp/serialization/zipball/fdf2834d78cebb0205fb2672676c1b1eb84371f0",
                 "reference": "fdf2834d78cebb0205fb2672676c1b1eb84371f0",
                 "shasum": ""
             },
@@ -622,6 +630,7 @@
                     "Amp\\Serialization\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -665,7 +674,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/socket/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvc29ja2V0L3ppcGJhbGwvYjM0N2JlNWFmZjZiMmNjMDI1MjA4YmI0ZDg5NjYwN2ViNDcwYzAxOCIsInZlcnNpb24iOiJ2Mi40LjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/amphp/socket/zipball/b347be5aff6b2cc025208bb4d896607eb470c018",
                 "reference": "b347be5aff6b2cc025208bb4d896607eb470c018",
                 "shasum": ""
             },
@@ -698,6 +707,7 @@
                     "Amp\\Socket\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -748,7 +758,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/amphp/sync/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvYW1waHAvc3luYy96aXBiYWxsLzJmNzExYjY2NTEyNzA0NDlkNTljNzcwZmZiNTE4Njk4NjU1MDIyZjciLCJ2ZXJzaW9uIjoidjIuMy4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/amphp/sync/zipball/2f711b6651270449d59c770ffb518698655022f7",
                 "reference": "2f711b6651270449d59c770ffb518698655022f7",
                 "shasum": ""
             },
@@ -774,6 +784,7 @@
                     "Amp\\Sync\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -822,7 +833,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/pcre/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIvcGNyZS96aXBiYWxsL2Q1YTM0MWIzZmI2MWYzMDAxOTcwOTQwYWZiMWQzMzI5NjhhMTgzZWQiLCJ2ZXJzaW9uIjoiMy40LjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/composer/pcre/zipball/d5a341b3fb61f3001970940afb1d332968a183ed",
                 "reference": "d5a341b3fb61f3001970940afb1d332968a183ed",
                 "shasum": ""
             },
@@ -854,6 +865,7 @@
                     "Composer\\Pcre\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -897,7 +909,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/semver/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIvc2VtdmVyL3ppcGJhbGwvZDkyNTQzYjdlZGU5YzRlYzZiNTk4NTNjZWZiMDYxZTM5ODY2ZDJjZiIsInZlcnNpb24iOiIzLjYuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/composer/semver/zipball/d92543b7ede9c4ec6b59853cefb061e39866d2cf",
                 "reference": "d92543b7ede9c4ec6b59853cefb061e39866d2cf",
                 "shasum": ""
             },
@@ -919,6 +931,7 @@
                     "Composer\\Semver\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -973,7 +986,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/xdebug-handler/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIveGRlYnVnLWhhbmRsZXIvemlwYmFsbC82YzE5MjU1NjE2MzJlODNkNjBhNDQ0OTJlMGIzNDRjZjQ4YWI4NWVmIiwidmVyc2lvbiI6IjMuMC41IiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "reference": "6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "shasum": ""
             },
@@ -993,6 +1006,7 @@
                     "Composer\\XdebugHandler\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1038,7 +1052,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/danog/advanced-json-rpc/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZGFub2cvcGhwLWFkdmFuY2VkLWpzb24tcnBjL3ppcGJhbGwvYWU3MDNlYTdiNDgxMTc5N2ExMDU5MGI2MDc4ZGUwNWIzYjMzZGQ5MSIsInZlcnNpb24iOiJ2My4yLjMiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/danog/php-advanced-json-rpc/zipball/ae703ea7b4811797a10590b6078de05b3b33dd91",
                 "reference": "ae703ea7b4811797a10590b6078de05b3b33dd91",
                 "shasum": ""
             },
@@ -1059,6 +1073,7 @@
                     "AdvancedJsonRpc\\": "lib/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "ISC"
             ],
@@ -1089,7 +1104,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/daverandom/libdns/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvRGF2ZVJhbmRvbS9MaWJETlMvemlwYmFsbC9iODRjOTRlOGZlNmI3ZWU0YWVjZmUxMjFiZmUzYjYxNzdkMzAzYzhhIiwidmVyc2lvbiI6InYyLjEuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/DaveRandom/LibDNS/zipball/b84c94e8fe6b7ee4aecfe121bfe3b6177d303c8a",
                 "reference": "b84c94e8fe6b7ee4aecfe121bfe3b6177d303c8a",
                 "shasum": ""
             },
@@ -1109,6 +1124,7 @@
                     "LibDNS\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1132,7 +1148,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/dnoegel/php-xdg-base-dir/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZG5vZWdlbC9waHAteGRnLWJhc2UtZGlyL3ppcGJhbGwvOGY4YTZlNDhjNWVjYjBmOTkxYzJmZGNmNWYxNTRhNDdkODVmOWZmZCIsInZlcnNpb24iOiJ2MC4xLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/dnoegel/php-xdg-base-dir/zipball/8f8a6e48c5ecb0f991c2fdcf5f154a47d85f9ffd",
                 "reference": "8f8a6e48c5ecb0f991c2fdcf5f154a47d85f9ffd",
                 "shasum": ""
             },
@@ -1148,6 +1164,7 @@
                     "XdgBaseDir\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1168,7 +1185,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/doctrine/deprecations/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZG9jdHJpbmUvZGVwcmVjYXRpb25zL3ppcGJhbGwvZDRmZTNlNmZkOWJiOWU3MjU1N2ExOTY3NGY0NGQ4YWM3ZGI0YzZjYSIsInZlcnNpb24iOiIxLjEuNiIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/doctrine/deprecations/zipball/d4fe3e6fd9bb9e72557a19674f44d8ac7db4c6ca",
                 "reference": "d4fe3e6fd9bb9e72557a19674f44d8ac7db4c6ca",
                 "shasum": ""
             },
@@ -1194,6 +1211,7 @@
                     "Doctrine\\Deprecations\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1215,7 +1233,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/felixfbecker/language-server-protocol/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZmVsaXhmYmVja2VyL3BocC1sYW5ndWFnZS1zZXJ2ZXItcHJvdG9jb2wvemlwYmFsbC9hOWUxMTNkYmM3ZDg0OWUzNWI4Nzc2ZGEzOWVkYWY0MzEzYjdiNmM5IiwidmVyc2lvbiI6InYxLjUuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/felixfbecker/php-language-server-protocol/zipball/a9e113dbc7d849e35b8776da39edaf4313b7b6c9",
                 "reference": "a9e113dbc7d849e35b8776da39edaf4313b7b6c9",
                 "shasum": ""
             },
@@ -1238,6 +1256,7 @@
                     "LanguageServerProtocol\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "ISC"
             ],
@@ -1270,7 +1289,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/fidry/cpu-core-counter/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlb2ZpZHJ5L2NwdS1jb3JlLWNvdW50ZXIvemlwYmFsbC9kMzg0YTdkMGQ2ZTY3YWE0OTczMjcyNjBjYTk1MDIzZTkyZGMyMDMyIiwidmVyc2lvbiI6IjEuNC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/theofidry/cpu-core-counter/zipball/d384a7d0d6e67aa497327260ca95023e92dc2032",
                 "reference": "d384a7d0d6e67aa497327260ca95023e92dc2032",
                 "shasum": ""
             },
@@ -1295,6 +1314,7 @@
                     "Fidry\\CpuCoreCounter\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1331,7 +1351,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/kelunik/certificate/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mva2VsdW5pay9jZXJ0aWZpY2F0ZS96aXBiYWxsLzdlMDBkNDk4YzI2NGQ1ZWI0Zjc4YzY5ZjQxYzhiZDY3MTljMDE5OWUiLCJ2ZXJzaW9uIjoidjEuMS4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/kelunik/certificate/zipball/7e00d498c264d5eb4f78c69f41c8bd6719c0199e",
                 "reference": "7e00d498c264d5eb4f78c69f41c8bd6719c0199e",
                 "shasum": ""
             },
@@ -1354,6 +1374,7 @@
                     "Kelunik\\Certificate\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1388,7 +1409,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/league/uri/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlcGhwbGVhZ3VlL3VyaS96aXBiYWxsL2JlODllMjM4MmUzN2FjZGVmMjMyMjU5MDcxYWRlNTE4MDgyMTM5N2IiLCJ2ZXJzaW9uIjoiNy4xMC4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/thephpleague/uri/zipball/be89e2382e37acdef232259071ade5180821397b",
                 "reference": "be89e2382e37acdef232259071ade5180821397b",
                 "shasum": ""
             },
@@ -1426,6 +1447,7 @@
                     "League\\Uri\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1486,7 +1508,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/league/uri-interfaces/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlcGhwbGVhZ3VlL3VyaS1pbnRlcmZhY2VzL3ppcGJhbGwvZWE2NjI0MGNmZjRhZTlhNTZjZTg1ZDU3N2EwNGQwMzhiNzcxZTUxYyIsInZlcnNpb24iOiI3LjEwLjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/thephpleague/uri-interfaces/zipball/ea66240cff4ae9a56ce85d577a04d038b771e51c",
                 "reference": "ea66240cff4ae9a56ce85d577a04d038b771e51c",
                 "shasum": ""
             },
@@ -1514,6 +1536,7 @@
                     "League\\Uri\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1569,7 +1592,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/netresearch/jsonmapper/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY3dlaXNrZS9qc29ubWFwcGVyL3ppcGJhbGwvOTgwNjc0ZWZkZGE2NTkxMzQ5MmQyOWE4ZmQ1MWM4MjI3MGRkMzdiYiIsInZlcnNpb24iOiJ2NS4wLjEiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/cweiske/jsonmapper/zipball/980674efdda65913492d29a8fd51c82270dd37bb",
                 "reference": "980674efdda65913492d29a8fd51c82270dd37bb",
                 "shasum": ""
             },
@@ -1590,6 +1613,7 @@
                     "JsonMapper": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "OSL-3.0"
             ],
@@ -1619,7 +1643,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/nikic/php-parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvbmlraWMvUEhQLVBhcnNlci96aXBiYWxsLzllMzNkYTk1NTNmZTc3ODZmMDk2MmIzNWY0ZTRlY2YwMWJlODlkZWYiLCJ2ZXJzaW9uIjoidjUuOS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/9e33da9553fe7786f0962b35f4e4ecf01be89def",
                 "reference": "9e33da9553fe7786f0962b35f4e4ecf01be89def",
                 "shasum": ""
             },
@@ -1646,6 +1670,7 @@
                     "PhpParser\\": "lib/PhpParser"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1675,7 +1700,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpdocumentor/reflection-common/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwRG9jdW1lbnRvci9SZWZsZWN0aW9uQ29tbW9uL3ppcGJhbGwvZWUxNWE1YTIwMjJjODM4MzkwNmIyMjUwNTVlOTQ5NmE2YTVlNmUzYiIsInZlcnNpb24iOiIyLjIuMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionCommon/zipball/ee15a5a2022c8383906b225055e9496a6a5e6e3b",
                 "reference": "ee15a5a2022c8383906b225055e9496a6a5e6e3b",
                 "shasum": ""
             },
@@ -1698,6 +1723,7 @@
                     "phpDocumentor\\Reflection\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1732,7 +1758,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpdocumentor/reflection-docblock/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwRG9jdW1lbnRvci9SZWZsZWN0aW9uRG9jQmxvY2svemlwYmFsbC83YmFlNjc1MjBhYTlmNWVjYzUwNmQ2NDY4MTBiZDQwZDlkYTU0NTgyIiwidmVyc2lvbiI6IjYuMC4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/7bae67520aa9f5ecc506d646810bd40d9da54582",
                 "reference": "7bae67520aa9f5ecc506d646810bd40d9da54582",
                 "shasum": ""
             },
@@ -1766,6 +1792,7 @@
                     "phpDocumentor\\Reflection\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1796,7 +1823,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpdocumentor/type-resolver/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwRG9jdW1lbnRvci9UeXBlUmVzb2x2ZXIvemlwYmFsbC9kYmUyMTMzYmIyM2UyZTMzYTY4MzRmNGVkNDE3ZjI0YTFiMTY3NzY5IiwidmVyc2lvbiI6IjIuMS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/dbe2133bb23e2e33a6834f4ed417f24a1b167769",
                 "reference": "dbe2133bb23e2e33a6834f4ed417f24a1b167769",
                 "shasum": ""
             },
@@ -1827,6 +1854,7 @@
                     "phpDocumentor\\Reflection\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1853,7 +1881,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpstan/phpdoc-parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwc3Rhbi9waHBkb2MtcGFyc2VyL3ppcGJhbGwvYWY4ZTg0MDU1MTAzMWQyNTRjZmRiM2ExOGE2MmMzNDcwYTMwOWMxMCIsInZlcnNpb24iOiIyLjQuMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/af8e840551031d254cfdb3a18a62c3470a309c10",
                 "reference": "af8e840551031d254cfdb3a18a62c3470a309c10",
                 "shasum": ""
             },
@@ -1879,6 +1907,7 @@
                     ]
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1890,6 +1919,320 @@
             "time": "2026-10-30T19:36:28+00:00"
         },
         {
+            "name": "psalm/plugin-laravel",
+            "version": "v4.19.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/psalm/psalm-plugin-laravel.git",
+                "reference": "af17fae370b75761ab0dcf4440a7b57d1fda2412"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-laravel/zipball/af17fae370b75761ab0dcf4440a7b57d1fda2412",
+                "reference": "af17fae370b75761ab0dcf4440a7b57d1fda2412",
+                "shasum": ""
+            },
+            "require": {
+                "ext-simplexml": "*",
+                "nikic/php-parser": "^5.0",
+                "php": "^8.2",
+                "psalm/psalm-plugin-api": "^0.4.1",
+                "sebastian/diff": "^4.0 || ^5.0 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
+                "symfony/console": "^6.4 || ^7.0 || ^8.0",
+                "vimeo/psalm": "^7.0"
+            },
+            "conflict": {
+                "laravel/framework": "<12.27 || 13.0.0 || >=13.1 <13.20",
+                "orchestra/testbench-core": "<10.0"
+            },
+            "require-dev": {
+                "alies-dev/psalm-tester": "^0.4",
+                "brianium/paratest": "^7.7",
+                "friendsofphp/php-cs-fixer": "^3.94",
+                "laravel/framework": "^12.27 || ^13.20",
+                "orchestra/testbench-core": "^10.0 || ^11.0",
+                "phpunit/phpunit": "^11.5 || ^12.5 || ^13.0",
+                "ramsey/collection": "^1.3",
+                "rector/rector": "^2.8.3",
+                "symfony/http-foundation": "^7.1 || ^8.0",
+                "symfony/process": "^7.1 || ^8.0"
+            },
+            "bin": [
+                "bin/psalm-laravel"
+            ],
+            "type": "psalm-plugin",
+            "extra": {
+                "psalm": {
+                    "pluginClass": "Psalm\\LaravelPlugin\\Plugin"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psalm\\LaravelPlugin\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Matthew Brown",
+                    "email": "github@muglug.com",
+                    "role": "Original Author"
+                },
+                {
+                    "name": "Alies Lapatsin",
+                    "email": "github@alies.dev",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "Psalm plugin for Laravel",
+            "homepage": "https://github.com/psalm/psalm-plugin-laravel",
+            "keywords": [
+                "dev",
+                "laravel",
+                "psalm",
+                "psalm-plugin"
+            ],
+            "support": {
+                "issues": "https://github.com/psalm/psalm-plugin-laravel/issues",
+                "source": "https://github.com/psalm/psalm-plugin-laravel/tree/v4.19.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/alies-dev",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-06T23:22:49+00:00"
+        },
+        {
+            "name": "psalm/plugin-mockery",
+            "version": "1.3.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/psalm/psalm-plugin-mockery.git",
+                "reference": "ddff47dd095dc3c47224a3f6bf137e28570ef022"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-mockery/zipball/ddff47dd095dc3c47224a3f6bf137e28570ef022",
+                "reference": "ddff47dd095dc3c47224a3f6bf137e28570ef022",
+                "shasum": ""
+            },
+            "require": {
+                "composer-runtime-api": "^2.0",
+                "composer/semver": "^1.4 || ^2.0 || ^3.0",
+                "php": ">=8.1",
+                "psalm/psalm-plugin-api": "^0.4",
+                "vimeo/psalm": "^7|dev-master"
+            },
+            "conflict": {
+                "mockery/mockery": "<1.0"
+            },
+            "require-dev": {
+                "codeception/codeception": "^5.0",
+                "mockery/mockery": "^1.0",
+                "phpunit/phpunit": "^10.5 || ^11.5 || ^12.0 || ^13.0",
+                "squizlabs/php_codesniffer": "^3.3.1",
+                "weirdan/codeception-psalm-module": "^0.14.1"
+            },
+            "type": "psalm-plugin",
+            "extra": {
+                "psalm": {
+                    "pluginClass": "Psalm\\MockeryPlugin\\Plugin"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psalm\\MockeryPlugin\\": [
+                        "."
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Matt Brown",
+                    "email": "github@muglug.com"
+                }
+            ],
+            "description": "Psalm plugin for Mockery",
+            "support": {
+                "issues": "https://github.com/psalm/psalm-plugin-mockery/issues",
+                "source": "https://github.com/psalm/psalm-plugin-mockery/tree/1.3.2"
+            },
+            "time": "2026-10-28T12:21:43+00:00"
+        },
+        {
+            "name": "psalm/plugin-phpunit",
+            "version": "0.22.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/psalm/psalm-plugin-phpunit.git",
+                "reference": "6e5ca7dd019e502f24824c138cb54fc8f485d2e2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-phpunit/zipball/6e5ca7dd019e502f24824c138cb54fc8f485d2e2",
+                "reference": "6e5ca7dd019e502f24824c138cb54fc8f485d2e2",
+                "shasum": ""
+            },
+            "require": {
+                "ext-simplexml": "*",
+                "php": ">=8.1",
+                "vimeo/psalm": "^6 || ^7.2 || dev-master"
+            },
+            "conflict": {
+                "phpspec/prophecy": "<1.20.0",
+                "phpspec/prophecy-phpunit": "<2.3.0"
+            },
+            "require-dev": {
+                "phpspec/prophecy-phpunit": "^2.3",
+                "phpunit/phpunit": "^10.0 || ^11.0 || ^12.0 || ^13.0",
+                "squizlabs/php_codesniffer": "^3.3.1"
+            },
+            "type": "psalm-plugin",
+            "extra": {
+                "psalm": {
+                    "pluginClass": "Psalm\\PhpUnitPlugin\\Plugin"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psalm\\PhpUnitPlugin\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Matt Brown",
+                    "email": "github@muglug.com"
+                }
+            ],
+            "description": "Psalm plugin for PHPUnit",
+            "support": {
+                "issues": "https://github.com/psalm/psalm-plugin-phpunit/issues",
+                "source": "https://github.com/psalm/psalm-plugin-phpunit/tree/0.22.2"
+            },
+            "time": "2026-11-09T20:48:04+00:00"
+        },
+        {
+            "name": "psalm/plugin-symfony",
+            "version": "v5.10.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/psalm/psalm-plugin-symfony.git",
+                "reference": "a34c03aaeb148da0ce807187717392b6e9b08738"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-symfony/zipball/a34c03aaeb148da0ce807187717392b6e9b08738",
+                "reference": "a34c03aaeb148da0ce807187717392b6e9b08738",
+                "shasum": ""
+            },
+            "require": {
+                "ext-simplexml": "*",
+                "php": ">=8.2",
+                "psalm/psalm-plugin-api": "^0.4",
+                "vimeo/psalm": "^7.0@stable|dev-master"
+            },
+            "conflict": {
+                "fidry/cpu-core-counter": "<1.2",
+                "symfony/expression-language": "<5.0",
+                "symfony/framework-bundle": "<5.0"
+            },
+            "require-dev": {
+                "doctrine/annotations": "^1.8|^2",
+                "doctrine/orm": "^2.9 || ^3.6",
+                "phpunit/phpunit": "~7.5 || ~9.5",
+                "symfony/cache-contracts": "^1.0 || ^2.0 || ^3.0",
+                "symfony/console": "*",
+                "symfony/expression-language": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+                "symfony/form": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+                "symfony/framework-bundle": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+                "symfony/messenger": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+                "symfony/mime": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+                "symfony/security-core": "*",
+                "symfony/serializer": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+                "symfony/validator": "*",
+                "twig/twig": "^2.10 || ^3.0",
+                "weirdan/codeception-psalm-module": "dev-master"
+            },
+            "suggest": {
+                "weirdan/doctrine-psalm-plugin": "If Doctrine is used, it is recommended install this plugin"
+            },
+            "type": "psalm-plugin",
+            "extra": {
+                "psalm": {
+                    "pluginClass": "Psalm\\SymfonyPsalmPlugin\\Plugin"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psalm\\SymfonyPsalmPlugin\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Farhad Safarov",
+                    "email": "farhad.safarov@gmail.com"
+                }
+            ],
+            "description": "Psalm Plugin for Symfony",
+            "support": {
+                "issues": "https://github.com/psalm/psalm-plugin-symfony/issues",
+                "source": "https://github.com/psalm/psalm-plugin-symfony/tree/v5.10.1"
+            },
+            "time": "2026-11-06T09:33:33+00:00"
+        },
+        {
+            "name": "psalm/psalm-plugin-api",
+            "version": "0.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/psalm/psalm-plugin-api.git",
+                "reference": "e52bdf2825750f2e1bc93f1a516d7e5eb87afad7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-api/zipball/e52bdf2825750f2e1bc93f1a516d7e5eb87afad7",
+                "reference": "e52bdf2825750f2e1bc93f1a516d7e5eb87afad7",
+                "shasum": ""
+            },
+            "conflict": {
+                "vimeo/psalm": "<7.0.0-rc3"
+            },
+            "type": "metapackage",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Daniil Gentili",
+                    "email": "daniil@daniil.it"
+                }
+            ],
+            "description": "Stable, semantically versioned API for Psalm plugins",
+            "support": {
+                "issues": "https://github.com/psalm/psalm-plugin-api/issues",
+                "source": "https://github.com/psalm/psalm-plugin-api/tree/0.4.1"
+            },
+            "time": "2026-10-20T09:28:00+00:00"
+        },
+        {
             "name": "psr/container",
             "version": "2.0.2",
             "source": {
@@ -1899,7 +2242,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/container/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9jb250YWluZXIvemlwYmFsbC9jNzFlY2M1NmRmZTU0MWRiZDkwYzUzNjA0NzRmYmM0MDVmOGQ1OTYzIiwidmVyc2lvbiI6IjIuMC4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "reference": "c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "shasum": ""
             },
@@ -1917,6 +2260,7 @@
                     "Psr\\Container\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1951,7 +2295,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/http-factory/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9odHRwLWZhY3RvcnkvemlwYmFsbC8yYjQ3NjVmZGRmZTNiNTA4YWM2MmY4MjllODUyYjE1MDFkM2Y2ZThhIiwidmVyc2lvbiI6IjEuMS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/http-factory/zipball/2b4765fddfe3b508ac62f829e852b1501d3f6e8a",
                 "reference": "2b4765fddfe3b508ac62f829e852b1501d3f6e8a",
                 "shasum": ""
             },
@@ -1970,6 +2314,7 @@
                     "Psr\\Http\\Message\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2005,7 +2350,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/http-message/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9odHRwLW1lc3NhZ2UvemlwYmFsbC80MDJkMzViY2I5MmM3MGMwMjZkMWE2YTk4ODNmMDZiMmVhZDIzZDcxIiwidmVyc2lvbiI6IjIuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/402d35bcb92c70c026d1a6a9883f06b2ead23d71",
                 "reference": "402d35bcb92c70c026d1a6a9883f06b2ead23d71",
                 "shasum": ""
             },
@@ -2023,6 +2368,7 @@
                     "Psr\\Http\\Message\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2057,7 +2403,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/log/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9sb2cvemlwYmFsbC9mMTZlMWQ1ODYzZTM3ZjhkOGMyYTAxNzE5ZjViMzRiYWEyYjcxNGQzIiwidmVyc2lvbiI6IjMuMC4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "shasum": ""
             },
@@ -2075,6 +2421,7 @@
                     "Psr\\Log\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2106,7 +2453,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/revolt/event-loop/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmV2b2x0cGhwL2V2ZW50LWxvb3AvemlwYmFsbC80NDA2MWNmNTEzZTUzYzYyMDAzNzJmYzkzNWFjNDIyNzE1NjYyOTVkIiwidmVyc2lvbiI6InYxLjAuOSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/revoltphp/event-loop/zipball/44061cf513e53c6200372fc935ac42271566295d",
                 "reference": "44061cf513e53c6200372fc935ac42271566295d",
                 "shasum": ""
             },
@@ -2130,6 +2477,7 @@
                     "Revolt\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2177,7 +2525,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/diff/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZGlmZi96aXBiYWxsL2I0Y2NkODU3MTI3ZGI1ZDQxYTViNjc2ZjI0YjUxMzcxZDc2ZDg1NDQiLCJ2ZXJzaW9uIjoiNi4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "reference": "b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "shasum": ""
             },
@@ -2199,6 +2547,7 @@
                     "src/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -2243,7 +2592,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/spatie/array-to-xml/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3BhdGllL2FycmF5LXRvLXhtbC96aXBiYWxsLzg4YjJmMzg1MmE5MjJkZDczMTc3YTY4OTM4ZjhlYjJlYzcwYzcyMjQiLCJ2ZXJzaW9uIjoiMy40LjQiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/spatie/array-to-xml/zipball/88b2f3852a922dd73177a68938f8eb2ec70c7224",
                 "reference": "88b2f3852a922dd73177a68938f8eb2ec70c7224",
                 "shasum": ""
             },
@@ -2267,6 +2616,7 @@
                     "Spatie\\ArrayToXml\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2310,7 +2660,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/console/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9jb25zb2xlL3ppcGJhbGwvODE5NTdjMjQ0MGMwNWM5NjJmZTgyOTFmMzE4ZGU2ZTg1ZjhkYjMzMCIsInZlcnNpb24iOiJ2Ny40LjIzIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/console/zipball/81957c2440c05c962fe8291f318de6e85f8db330",
                 "reference": "81957c2440c05c962fe8291f318de6e85f8db330",
                 "shasum": ""
             },
@@ -2353,6 +2703,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2407,7 +2758,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/deprecation-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9kZXByZWNhdGlvbi1jb250cmFjdHMvemlwYmFsbC9mZWIxZWRmNGU1NDZhZjNiODVjNWNhZWJlODM1OWEyMGRiMjMwY2EzIiwidmVyc2lvbiI6InYzLjguMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/feb1edf4e546af3b85c5caebe8359a20db230ca3",
                 "reference": "feb1edf4e546af3b85c5caebe8359a20db230ca3",
                 "shasum": ""
             },
@@ -2429,6 +2780,7 @@
                     "function.php"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2477,7 +2829,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/filesystem/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9maWxlc3lzdGVtL3ppcGJhbGwvNTNkNjA5ZGE2NjU3OGRhZDVhMzlmZTI5MGU4ZjkyNGVjOGYwNWU5MyIsInZlcnNpb24iOiJ2Ny40LjIzIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/53d609da66578dad5a39fe290e8f924ec8f05e93",
                 "reference": "53d609da66578dad5a39fe290e8f924ec8f05e93",
                 "shasum": ""
             },
@@ -2498,6 +2850,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2546,7 +2899,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-ctype/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1jdHlwZS96aXBiYWxsLzE0MTA0NmE4Zjk0Nzc5NDhmZjI4NGZhNjViZTIwOTViYWFmYjk0ZjIiLCJ2ZXJzaW9uIjoidjEuMzcuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/141046a8f9477948ff284fa65be2095baafb94f2",
                 "reference": "141046a8f9477948ff284fa65be2095baafb94f2",
                 "shasum": ""
             },
@@ -2574,6 +2927,7 @@
                     "Symfony\\Polyfill\\Ctype\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2628,7 +2982,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-intl-grapheme/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1pbnRsLWdyYXBoZW1lL3ppcGJhbGwvNWE4ZjMzYzg3YWVlY2ZmY2UyNGU3MjFiNTA2NGZhYjA1ZjRiZWNmOCIsInZlcnNpb24iOiJ2MS40My4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-grapheme/zipball/5a8f33c87aeecffce24e721b5064fab05f4becf8",
                 "reference": "5a8f33c87aeecffce24e721b5064fab05f4becf8",
                 "shasum": ""
             },
@@ -2653,6 +3007,7 @@
                     "Symfony\\Polyfill\\Intl\\Grapheme\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2709,7 +3064,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-intl-normalizer/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1pbnRsLW5vcm1hbGl6ZXIvemlwYmFsbC9lYmQ1N2NjYzdlZGI5M2Q2MzJlMTg0ZWZiZTc2OTNkMjUxN2JhYjNiIiwidmVyc2lvbiI6InYxLjQzLjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/ebd57ccc7edb93d632e184efbe7693d2517bab3b",
                 "reference": "ebd57ccc7edb93d632e184efbe7693d2517bab3b",
                 "shasum": ""
             },
@@ -2737,6 +3092,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2793,7 +3149,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-mbstring/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1tYnN0cmluZy96aXBiYWxsLzEyMjg4OWVkMjRkYzAwMDE2NWJjYmZkNzdlYzQxMmYxNWNiZGZjNmEiLCJ2ZXJzaW9uIjoidjEuNDMuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/122889ed24dc000165bcbfd77ec412f15cbdfc6a",
                 "reference": "122889ed24dc000165bcbfd77ec412f15cbdfc6a",
                 "shasum": ""
             },
@@ -2822,6 +3178,7 @@
                     "Symfony\\Polyfill\\Mbstring\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2877,7 +3234,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-php84/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1waHA4NC96aXBiYWxsLzIyYzY1NDg0OTljYmU1YzViYjA3MmZjMGM0MjMxMmRmZjA2MmEwMTUiLCJ2ZXJzaW9uIjoidjEuNDMuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-php84/zipball/22c6548499cbe5c5bb072fc0c42312dff062a015",
                 "reference": "22c6548499cbe5c5bb072fc0c42312dff062a015",
                 "shasum": ""
             },
@@ -2902,6 +3259,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2956,7 +3314,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/service-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zZXJ2aWNlLWNvbnRyYWN0cy96aXBiYWxsLzA1Mjg1MmE5NmZkNWU1ZWJkYjYxN2RiYTIyMDMxZTQxYTMzMDBmYjUiLCJ2ZXJzaW9uIjoidjMuOC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/052852a96fd5e5ebdb617dba22031e41a3300fb5",
                 "reference": "052852a96fd5e5ebdb617dba22031e41a3300fb5",
                 "shasum": ""
             },
@@ -2986,6 +3344,7 @@
                     "/Test/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3042,7 +3401,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/string/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zdHJpbmcvemlwYmFsbC84ZGZmN2RhM2E1NjYzOGYxZDE4OWM1MzY4MTgzMjk0MTAyZGU0Y2VkIiwidmVyc2lvbiI6InY3LjQuMjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/string/zipball/8dff7da3a56638f1d189c5368183294102de4ced",
                 "reference": "8dff7da3a56638f1d189c5368183294102de4ced",
                 "shasum": ""
             },
@@ -3076,6 +3435,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3124,22 +3484,22 @@
         },
         {
             "name": "vimeo/psalm",
-            "version": "6.20.10",
+            "version": "7.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vimeo/psalm.git",
-                "reference": "7fc81490f861c801061836a9010603d2393bf8da"
+                "reference": "127f608db981d5e1d023603514f7bbfcaae8f570"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/vimeo/psalm/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdmltZW8vcHNhbG0vemlwYmFsbC83ZmM4MTQ5MGY4NjFjODAxMDYxODM2YTkwMTA2MDNkMjM5M2JmOGRhIiwidmVyc2lvbiI6IjYuMjAuMTAiLCJmaWxlVHlwZSI6InppcCJ9",
-                "reference": "7fc81490f861c801061836a9010603d2393bf8da",
+                "url": "https://api.github.com/repos/vimeo/psalm/zipball/127f608db981d5e1d023603514f7bbfcaae8f570",
+                "reference": "127f608db981d5e1d023603514f7bbfcaae8f570",
                 "shasum": ""
             },
             "require": {
                 "amphp/amp": "^3",
                 "amphp/byte-stream": "^2",
-                "amphp/parallel": "^2.3",
+                "amphp/parallel": "^2.4.0",
                 "composer-runtime-api": "^2",
                 "composer/semver": "^1.4 || ^2.0 || ^3.0",
                 "composer/xdebug-handler": "^2.0 || ^3.0",
@@ -3153,10 +3513,15 @@
                 "ext-simplexml": "*",
                 "ext-tokenizer": "*",
                 "felixfbecker/language-server-protocol": "^1.5.3",
-                "fidry/cpu-core-counter": "^0.4.1 || ^0.5.1 || ^1.0.0",
+                "fidry/cpu-core-counter": "^1.2",
                 "netresearch/jsonmapper": "^5.0",
-                "nikic/php-parser": "^5.2.0",
-                "php": "~8.1.31 || ~8.2.27 || ~8.3.16 || ~8.4.3 || ~8.5.0",
+                "nikic/php-parser": "^5.9",
+                "php-64bit": "~8.2.27 || ~8.3.16 || ~8.4.3 || ~8.5.0 || ~8.6.0",
+                "psalm/plugin-laravel": "^4.17.4",
+                "psalm/plugin-mockery": "^1.3.2",
+                "psalm/plugin-phpunit": "^0.21 || ^0.22 || ^1.0",
+                "psalm/plugin-symfony": "^5.9.1",
+                "psalm/psalm-plugin-api": "0.4.1",
                 "sebastian/diff": "^4.0 || ^5.0 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
                 "spatie/array-to-xml": "^2.17.0 || ^3.0",
                 "symfony/console": "^6.0 || ^7.0 || ^8.0",
@@ -3167,9 +3532,8 @@
                 "psalm/psalm": "self.version"
             },
             "require-dev": {
-                "amphp/phpunit-util": "^3",
                 "bamarni/composer-bin-plugin": "^1.4",
-                "brianium/paratest": "^6.9",
+                "brianium/paratest": "^7.3",
                 "danog/class-finder": "^0.4.8",
                 "dg/bypass-finals": "^1.5",
                 "ext-curl": "*",
@@ -3177,16 +3541,15 @@
                 "nunomaduro/mock-final-classes": "^1.1",
                 "php-parallel-lint/php-parallel-lint": "^1.2",
                 "phpstan/phpdoc-parser": "^1.6",
-                "phpunit/phpunit": "^9.6",
-                "psalm/plugin-mockery": "^1.1",
-                "psalm/plugin-phpunit": "^0.19",
+                "phpunit/phpunit": "^10.5 || ^11.5 || ^12.5 || ^13.0",
                 "slevomat/coding-standard": "^8.4",
                 "squizlabs/php_codesniffer": "^3.6",
                 "symfony/process": "^6.0 || ^7.0 || ^8.0"
             },
             "suggest": {
                 "ext-curl": "In order to send data to shepherd",
-                "ext-igbinary": "^2.0.5 is required, used to serialize caching data"
+                "ext-igbinary": "^2.0.5 is required, used to serialize caching data",
+                "ext-zstd": ">=0.15.0 is required, used to compress caching data"
             },
             "bin": [
                 "psalm",
@@ -3213,6 +3576,7 @@
                     "Psalm\\": "src/Psalm/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3237,7 +3601,7 @@
                 "issues": "https://github.com/vimeo/psalm/issues",
                 "source": "https://github.com/vimeo/psalm"
             },
-            "time": "2026-11-07T16:49:18+00:00"
+            "time": "2026-11-09T22:55:03+00:00"
         },
         {
             "name": "webmozart/assert",
@@ -3249,7 +3613,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/webmozart/assert/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvd2VibW96YXJ0cy9hc3NlcnQvemlwYmFsbC84YTE2MzcwNmJiY2FjNjEzNzMzZGJhMDNmNTFlMTNiNWViMWJiODE5IiwidmVyc2lvbiI6IjIuNS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/8a163706bbcac613733dba03f51e13b5eb1bb819",
                 "reference": "8a163706bbcac613733dba03f51e13b5eb1bb819",
                 "shasum": ""
             },
@@ -3279,6 +3643,7 @@
                     "Webmozart\\Assert\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
