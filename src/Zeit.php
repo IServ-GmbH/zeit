@@ -11,6 +11,8 @@ use IServ\Library\Zeit\Clock\SystemClock;
  * Time and date factory utils.
  *
  * Yes! It's called "Zeit" with full intent to get a catchy short name without conflicting with existing classes.
+ *
+ * @api
  */
 final class Zeit
 {

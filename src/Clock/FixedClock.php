@@ -6,6 +6,8 @@ namespace IServ\Library\Zeit\Clock;
 
 /**
  * Clock implementation for testing. Returns the *same* time for all calls!
+ *
+ * @api
  */
 final class FixedClock implements Clock
 {
@@ -41,6 +43,7 @@ final class FixedClock implements Clock
     /**
      * {@inheritDoc}
      */
+    #[\Override]
     public function now(): \DateTimeImmutable
     {
         return $this->time;
@@ -49,6 +52,7 @@ final class FixedClock implements Clock
     /**
      * {@inheritDoc}
      */
+    #[\Override]
     public function usleep(int $microseconds): void
     {
         if (false === $naptime = $this->time->modify(sprintf('+%d microseconds', $microseconds))) {
