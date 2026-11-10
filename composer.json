@@ -11,9 +11,18 @@
     "clock"
   ],
   "require": {
-    "php": ">=8.1",
+    "php": ">=8.2",
     "psr/clock": "^1.0"
   },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.iserv.eu"
+    },
+    {
+      "packagist": false
+    }
+  ],
   "autoload": {
     "psr-4": {
       "IServ\\Library\\Zeit\\": "src/"
@@ -29,10 +38,10 @@
   },
   "extra": {
     "cotor": {
-      "friendsofphp/php-cs-fixer": "^3.8",
-      "phpstan/phpstan": "^2.2",
+      "friendsofphp/php-cs-fixer": "^3.95",
+      "phpstan/phpstan": "^2.3",
       "phpunit/phpunit": "^11.5",
-      "vimeo/psalm": "^5.0"
+      "vimeo/psalm": "^6.0"
     }
   }
 }

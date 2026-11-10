@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "19379d19e3c95448112143a13c23c69d",
+    "content-hash": "bce221747db56b13501b7bc193fed1d3",
     "packages": [
         {
             "name": "myclabs/deep-copy",
@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/8680aa248f8e07bc8fb43f56f0f5fc77a0c96aae",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/myclabs/deep-copy/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvbXljbGFicy9EZWVwQ29weS96aXBiYWxsLzg2ODBhYTI0OGY4ZTA3YmM4ZmI0M2Y1NmYwZjVmYzc3YTBjOTZhYWUiLCJ2ZXJzaW9uIjoiMS4xNC4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "8680aa248f8e07bc8fb43f56f0f5fc77a0c96aae",
                 "shasum": ""
             },
@@ -42,7 +42,6 @@
                     "DeepCopy\\": "src/DeepCopy/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -68,16 +67,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.8.0",
+            "version": "v5.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "044a6a392ff8ad0d61f14370a5fbbd0a0107152f"
+                "reference": "9e33da9553fe7786f0962b35f4e4ecf01be89def"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/044a6a392ff8ad0d61f14370a5fbbd0a0107152f",
-                "reference": "044a6a392ff8ad0d61f14370a5fbbd0a0107152f",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/nikic/php-parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvbmlraWMvUEhQLVBhcnNlci96aXBiYWxsLzllMzNkYTk1NTNmZTc3ODZmMDk2MmIzNWY0ZTRlY2YwMWJlODlkZWYiLCJ2ZXJzaW9uIjoidjUuOS4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "reference": "9e33da9553fe7786f0962b35f4e4ecf01be89def",
                 "shasum": ""
             },
             "require": {
@@ -103,7 +102,6 @@
                     "PhpParser\\": "lib/PhpParser"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -119,9 +117,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.8.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.9.0"
             },
-            "time": "2026-07-04T14:30:18+00:00"
+            "time": "2026-09-13T18:51:52+00:00"
         },
         {
             "name": "phar-io/manifest",
@@ -133,7 +131,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phar-io/manifest/zipball/54750ef60c58e43759730615a392c31c80e23176",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phar-io/manifest/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhhci1pby9tYW5pZmVzdC96aXBiYWxsLzU0NzUwZWY2MGM1OGU0Mzc1OTczMDYxNWEzOTJjMzFjODBlMjMxNzYiLCJ2ZXJzaW9uIjoiMi4wLjQiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "54750ef60c58e43759730615a392c31c80e23176",
                 "shasum": ""
             },
@@ -156,7 +154,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -200,7 +197,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phar-io/version/zipball/4f7fd7836c6f332bb2933569e566a0d6c4cbed74",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phar-io/version/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhhci1pby92ZXJzaW9uL3ppcGJhbGwvNGY3ZmQ3ODM2YzZmMzMyYmIyOTMzNTY5ZTU2NmEwZDZjNGNiZWQ3NCIsInZlcnNpb24iOiIzLjIuMSIsImZpbGVUeXBlIjoiemlwIn0=",
                 "reference": "4f7fd7836c6f332bb2933569e566a0d6c4cbed74",
                 "shasum": ""
             },
@@ -213,7 +210,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -251,7 +247,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/2c1ed04922802c15e1de5d7447b4856de949cf56",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpunit/php-code-coverage/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcGhwLWNvZGUtY292ZXJhZ2UvemlwYmFsbC8yYzFlZDA0OTIyODAyYzE1ZTFkZTVkNzQ0N2I0ODU2ZGU5NDljZjU2IiwidmVyc2lvbiI6IjExLjAuMTIiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "2c1ed04922802c15e1de5d7447b4856de949cf56",
                 "shasum": ""
             },
@@ -288,7 +284,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -341,7 +336,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/2f3a64888c814fc235386b7387dd5b5ed92ad903",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpunit/php-file-iterator/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcGhwLWZpbGUtaXRlcmF0b3IvemlwYmFsbC8yZjNhNjQ4ODhjODE0ZmMyMzUzODZiNzM4N2RkNWI1ZWQ5MmFkOTAzIiwidmVyc2lvbiI6IjUuMS4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "2f3a64888c814fc235386b7387dd5b5ed92ad903",
                 "shasum": ""
             },
@@ -362,7 +357,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -414,7 +408,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-invoker/zipball/c1ca3814734c07492b3d4c5f794f4b0995333da2",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpunit/php-invoker/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcGhwLWludm9rZXIvemlwYmFsbC9jMWNhMzgxNDczNGMwNzQ5MmIzZDRjNWY3OTRmNGIwOTk1MzMzZGEyIiwidmVyc2lvbiI6IjUuMC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "c1ca3814734c07492b3d4c5f794f4b0995333da2",
                 "shasum": ""
             },
@@ -439,7 +433,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -478,7 +471,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-text-template/zipball/3e0404dc6b300e6bf56415467ebcb3fe4f33e964",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpunit/php-text-template/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcGhwLXRleHQtdGVtcGxhdGUvemlwYmFsbC8zZTA0MDRkYzZiMzAwZTZiZjU2NDE1NDY3ZWJjYjNmZTRmMzNlOTY0IiwidmVyc2lvbiI6IjQuMC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "3e0404dc6b300e6bf56415467ebcb3fe4f33e964",
                 "shasum": ""
             },
@@ -499,7 +492,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -538,7 +530,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/3b415def83fbcb41f991d9ebf16ae4ad8b7837b3",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpunit/php-timer/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcGhwLXRpbWVyL3ppcGJhbGwvM2I0MTVkZWY4M2ZiY2I0MWY5OTFkOWViZjE2YWU0YWQ4Yjc4MzdiMyIsInZlcnNpb24iOiI3LjAuMSIsImZpbGVUeXBlIjoiemlwIn0=",
                 "reference": "3b415def83fbcb41f991d9ebf16ae4ad8b7837b3",
                 "shasum": ""
             },
@@ -559,7 +551,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -598,7 +589,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/36b75bf56a8535623f5b3e24b27ea1823759da1a",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpunit/phpunit/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcGhwdW5pdC96aXBiYWxsLzM2Yjc1YmY1NmE4NTM1NjIzZjViM2UyNGIyN2VhMTgyMzc1OWRhMWEiLCJ2ZXJzaW9uIjoiMTEuNS41NyIsImZpbGVUeXBlIjoiemlwIn0=",
                 "reference": "36b75bf56a8535623f5b3e24b27ea1823759da1a",
                 "shasum": ""
             },
@@ -651,7 +642,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -692,7 +682,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/cli-parser/zipball/15c5dd40dc4f38794d383bb95465193f5e0ae180",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/cli-parser/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vY2xpLXBhcnNlci96aXBiYWxsLzE1YzVkZDQwZGM0ZjM4Nzk0ZDM4M2JiOTU0NjUxOTNmNWUwYWUxODAiLCJ2ZXJzaW9uIjoiMy4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "15c5dd40dc4f38794d383bb95465193f5e0ae180",
                 "shasum": ""
             },
@@ -713,7 +703,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -749,7 +738,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/code-unit/zipball/54391c61e4af8078e5b276ab082b6d3c54c9ad64",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/code-unit/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vY29kZS11bml0L3ppcGJhbGwvNTQzOTFjNjFlNGFmODA3OGU1YjI3NmFiMDgyYjZkM2M1NGM5YWQ2NCIsInZlcnNpb24iOiIzLjAuMyIsImZpbGVUeXBlIjoiemlwIn0=",
                 "reference": "54391c61e4af8078e5b276ab082b6d3c54c9ad64",
                 "shasum": ""
             },
@@ -770,7 +759,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -806,7 +794,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/code-unit-reverse-lookup/zipball/183a9b2632194febd219bb9246eee421dad8d45e",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/code-unit-reverse-lookup/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vY29kZS11bml0LXJldmVyc2UtbG9va3VwL3ppcGJhbGwvMTgzYTliMjYzMjE5NGZlYmQyMTliYjkyNDZlZWU0MjFkYWQ4ZDQ1ZSIsInZlcnNpb24iOiI0LjAuMSIsImZpbGVUeXBlIjoiemlwIn0=",
                 "reference": "183a9b2632194febd219bb9246eee421dad8d45e",
                 "shasum": ""
             },
@@ -827,7 +815,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -862,7 +849,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/2c95e1e86cb8dd41beb8d502057d1081ccc8eca9",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/comparator/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vY29tcGFyYXRvci96aXBiYWxsLzJjOTVlMWU4NmNiOGRkNDFiZWI4ZDUwMjA1N2QxMDgxY2NjOGVjYTkiLCJ2ZXJzaW9uIjoiNi4zLjMiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "2c95e1e86cb8dd41beb8d502057d1081ccc8eca9",
                 "shasum": ""
             },
@@ -890,7 +877,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -954,7 +940,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/complexity/zipball/ee41d384ab1906c68852636b6de493846e13e5a0",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/complexity/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vY29tcGxleGl0eS96aXBiYWxsL2VlNDFkMzg0YWIxOTA2YzY4ODUyNjM2YjZkZTQ5Mzg0NmUxM2U1YTAiLCJ2ZXJzaW9uIjoiNC4wLjEiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "ee41d384ab1906c68852636b6de493846e13e5a0",
                 "shasum": ""
             },
@@ -976,7 +962,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1012,7 +997,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/b4ccd857127db5d41a5b676f24b51371d76d8544",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/diff/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZGlmZi96aXBiYWxsL2I0Y2NkODU3MTI3ZGI1ZDQxYTViNjc2ZjI0YjUxMzcxZDc2ZDg1NDQiLCJ2ZXJzaW9uIjoiNi4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "shasum": ""
             },
@@ -1034,7 +1019,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1079,7 +1063,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/a5c75038693ad2e8d4b6c15ba2403532647830c4",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/environment/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZW52aXJvbm1lbnQvemlwYmFsbC9hNWM3NTAzODY5M2FkMmU4ZDRiNmMxNWJhMjQwMzUzMjY0NzgzMGM0IiwidmVyc2lvbiI6IjcuMi4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "a5c75038693ad2e8d4b6c15ba2403532647830c4",
                 "shasum": ""
             },
@@ -1103,7 +1087,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1155,7 +1138,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/70a298763b40b213ec087c51c739efcaa90bcd74",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/exporter/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZXhwb3J0ZXIvemlwYmFsbC83MGEyOTg3NjNiNDBiMjEzZWMwODdjNTFjNzM5ZWZjYWE5MGJjZDc0IiwidmVyc2lvbiI6IjYuMy4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "70a298763b40b213ec087c51c739efcaa90bcd74",
                 "shasum": ""
             },
@@ -1178,7 +1161,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1245,7 +1227,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/global-state/zipball/3be331570a721f9a4b5917f4209773de17f747d7",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/global-state/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZ2xvYmFsLXN0YXRlL3ppcGJhbGwvM2JlMzMxNTcwYTcyMWY5YTRiNTkxN2Y0MjA5NzczZGUxN2Y3NDdkNyIsInZlcnNpb24iOiI3LjAuMiIsImZpbGVUeXBlIjoiemlwIn0=",
                 "reference": "3be331570a721f9a4b5917f4209773de17f747d7",
                 "shasum": ""
             },
@@ -1269,7 +1251,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1307,7 +1288,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/lines-of-code/zipball/d36ad0d782e5756913e42ad87cb2890f4ffe467a",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/lines-of-code/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vbGluZXMtb2YtY29kZS96aXBiYWxsL2QzNmFkMGQ3ODJlNTc1NjkxM2U0MmFkODdjYjI4OTBmNGZmZTQ2N2EiLCJ2ZXJzaW9uIjoiMy4wLjEiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "d36ad0d782e5756913e42ad87cb2890f4ffe467a",
                 "shasum": ""
             },
@@ -1329,7 +1310,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1365,7 +1345,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/f5b498e631a74204185071eb41f33f38d64608aa",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/object-enumerator/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vb2JqZWN0LWVudW1lcmF0b3IvemlwYmFsbC9mNWI0OThlNjMxYTc0MjA0MTg1MDcxZWI0MWYzM2YzOGQ2NDYwOGFhIiwidmVyc2lvbiI6IjYuMC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "f5b498e631a74204185071eb41f33f38d64608aa",
                 "shasum": ""
             },
@@ -1388,7 +1368,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1423,7 +1402,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/object-reflector/zipball/6e1a43b411b2ad34146dee7524cb13a068bb35f9",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/object-reflector/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vb2JqZWN0LXJlZmxlY3Rvci96aXBiYWxsLzZlMWE0M2I0MTFiMmFkMzQxNDZkZWU3NTI0Y2IxM2EwNjhiYjM1ZjkiLCJ2ZXJzaW9uIjoiNC4wLjEiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "6e1a43b411b2ad34146dee7524cb13a068bb35f9",
                 "shasum": ""
             },
@@ -1444,7 +1423,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1479,7 +1457,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/recursion-context/zipball/f6458abbf32a6c8174f8f26261475dc133b3d9dc",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/recursion-context/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vcmVjdXJzaW9uLWNvbnRleHQvemlwYmFsbC9mNjQ1OGFiYmYzMmE2YzgxNzRmOGYyNjI2MTQ3NWRjMTMzYjNkOWRjIiwidmVyc2lvbiI6IjYuMC4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "f6458abbf32a6c8174f8f26261475dc133b3d9dc",
                 "shasum": ""
             },
@@ -1500,7 +1478,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1555,7 +1532,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/type/zipball/f77d2d4e78738c98d9a68d2596fe5e8fa380f449",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/type/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vdHlwZS96aXBiYWxsL2Y3N2QyZDRlNzg3MzhjOThkOWE2OGQyNTk2ZmU1ZThmYTM4MGY0NDkiLCJ2ZXJzaW9uIjoiNS4xLjMiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "f77d2d4e78738c98d9a68d2596fe5e8fa380f449",
                 "shasum": ""
             },
@@ -1576,7 +1553,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1624,7 +1600,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/version/zipball/c687e3387b99f5b03b6caa64c74b63e2936ff874",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/version/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vdmVyc2lvbi96aXBiYWxsL2M2ODdlMzM4N2I5OWY1YjAzYjZjYWE2NGM3NGI2M2UyOTM2ZmY4NzQiLCJ2ZXJzaW9uIjoiNS4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "c687e3387b99f5b03b6caa64c74b63e2936ff874",
                 "shasum": ""
             },
@@ -1642,7 +1618,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1678,7 +1653,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/staabm/side-effects-detector/zipball/d8334211a140ce329c13726d4a715adbddd0a163",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/staabm/side-effects-detector/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3RhYWJtL3NpZGUtZWZmZWN0cy1kZXRlY3Rvci96aXBiYWxsL2Q4MzM0MjExYTE0MGNlMzI5YzEzNzI2ZDRhNzE1YWRiZGRkMGExNjMiLCJ2ZXJzaW9uIjoiMS4wLjUiLCJmaWxlVHlwZSI6InppcCJ9",
                 "reference": "d8334211a140ce329c13726d4a715adbddd0a163",
                 "shasum": ""
             },
@@ -1700,7 +1675,6 @@
                     "lib/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1730,7 +1704,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/theseer/tokenizer/zipball/b7489ce515e168639d17feec34b8847c326b0b3c",
+                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/theseer/tokenizer/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlc2Vlci90b2tlbml6ZXIvemlwYmFsbC9iNzQ4OWNlNTE1ZTE2ODYzOWQxN2ZlZWMzNGI4ODQ3YzMyNmIwYjNjIiwidmVyc2lvbiI6IjEuMy4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
                 "reference": "b7489ce515e168639d17feec34b8847c326b0b3c",
                 "shasum": ""
             },
@@ -1746,7 +1720,6 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1774,12 +1747,12 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {},
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=8.1"
+        "php": ">=8.2"
     },
-    "platform-dev": {},
-    "plugin-api-version": "2.9.0"
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
 }
