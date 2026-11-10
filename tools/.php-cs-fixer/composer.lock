@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b9a0b3ec62545db97a03530aa8f1f0a4",
+    "content-hash": "edbf9a15a620e594afb227a8deb9f77d",
     "packages": [
         {
             "name": "clue/ndjson-react",
@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/clue/ndjson-react/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY2x1ZS9yZWFjdHBocC1uZGpzb24vemlwYmFsbC8zOTJkYzE2NWZjZTkzYjViYjVjNjM3YjY3ZTU5NjE5MjIzYzkzMWIwIiwidmVyc2lvbiI6InYxLjMuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/clue/reactphp-ndjson/zipball/392dc165fce93b5bb5c637b67e59619223c931b0",
                 "reference": "392dc165fce93b5bb5c637b67e59619223c931b0",
                 "shasum": ""
             },
@@ -34,6 +34,7 @@
                     "Clue\\React\\NDJson\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -79,7 +80,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/pcre/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIvcGNyZS96aXBiYWxsL2Q1YTM0MWIzZmI2MWYzMDAxOTcwOTQwYWZiMWQzMzI5NjhhMTgzZWQiLCJ2ZXJzaW9uIjoiMy40LjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/composer/pcre/zipball/d5a341b3fb61f3001970940afb1d332968a183ed",
                 "reference": "d5a341b3fb61f3001970940afb1d332968a183ed",
                 "shasum": ""
             },
@@ -111,6 +112,7 @@
                     "Composer\\Pcre\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -154,7 +156,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/semver/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIvc2VtdmVyL3ppcGJhbGwvZDkyNTQzYjdlZGU5YzRlYzZiNTk4NTNjZWZiMDYxZTM5ODY2ZDJjZiIsInZlcnNpb24iOiIzLjYuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/composer/semver/zipball/d92543b7ede9c4ec6b59853cefb061e39866d2cf",
                 "reference": "d92543b7ede9c4ec6b59853cefb061e39866d2cf",
                 "shasum": ""
             },
@@ -176,6 +178,7 @@
                     "Composer\\Semver\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -230,7 +233,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/composer/xdebug-handler/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvY29tcG9zZXIveGRlYnVnLWhhbmRsZXIvemlwYmFsbC82YzE5MjU1NjE2MzJlODNkNjBhNDQ0OTJlMGIzNDRjZjQ4YWI4NWVmIiwidmVyc2lvbiI6IjMuMC41IiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "reference": "6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "shasum": ""
             },
@@ -250,6 +253,7 @@
                     "Composer\\XdebugHandler\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -295,7 +299,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/ergebnis/agent-detector/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvZXJnZWJuaXMvYWdlbnQtZGV0ZWN0b3IvemlwYmFsbC9iY2M2MzAwNDI4NGM2MWM2ZGY2ZTk2MjVhY2YyNjczZTNiZTE4ODliIiwidmVyc2lvbiI6IjIuMC4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/ergebnis/agent-detector/zipball/bcc63004284c61c6df6e9625acf2673e3be1889b",
                 "reference": "bcc63004284c61c6df6e9625acf2673e3be1889b",
                 "shasum": ""
             },
@@ -334,6 +338,7 @@
                     "Ergebnis\\AgentDetector\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -363,7 +368,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/evenement/evenement/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvaWdvcncvZXZlbmVtZW50L3ppcGJhbGwvMGExNmIwZDcxYWIxMzI4NDMzOWFiYjk5ZDlkMmJkODEzNjQwZWZiYyIsInZlcnNpb24iOiJ2My4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/igorw/evenement/zipball/0a16b0d71ab13284339abb99d9d2bd813640efbc",
                 "reference": "0a16b0d71ab13284339abb99d9d2bd813640efbc",
                 "shasum": ""
             },
@@ -379,6 +384,7 @@
                     "Evenement\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -409,7 +415,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/fidry/cpu-core-counter/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvdGhlb2ZpZHJ5L2NwdS1jb3JlLWNvdW50ZXIvemlwYmFsbC9kMzg0YTdkMGQ2ZTY3YWE0OTczMjcyNjBjYTk1MDIzZTkyZGMyMDMyIiwidmVyc2lvbiI6IjEuNC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/theofidry/cpu-core-counter/zipball/d384a7d0d6e67aa497327260ca95023e92dc2032",
                 "reference": "d384a7d0d6e67aa497327260ca95023e92dc2032",
                 "shasum": ""
             },
@@ -434,6 +440,7 @@
                     "Fidry\\CpuCoreCounter\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -462,16 +469,16 @@
         },
         {
             "name": "friendsofphp/php-cs-fixer",
-            "version": "v3.95.29",
+            "version": "v3.95.30",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer.git",
-                "reference": "60e424d3e54b15b0174924fb123783aae0de7b0c"
+                "reference": "e85cafc4d861c122839d5409eda3325ac0ec0300"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/friendsofphp/php-cs-fixer/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvUEhQLUNTLUZpeGVyL1BIUC1DUy1GaXhlci96aXBiYWxsLzYwZTQyNGQzZTU0YjE1YjAxNzQ5MjRmYjEyMzc4M2FhZTBkZTdiMGMiLCJ2ZXJzaW9uIjoidjMuOTUuMjkiLCJmaWxlVHlwZSI6InppcCJ9",
-                "reference": "60e424d3e54b15b0174924fb123783aae0de7b0c",
+                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/e85cafc4d861c122839d5409eda3325ac0ec0300",
+                "reference": "e85cafc4d861c122839d5409eda3325ac0ec0300",
                 "shasum": ""
             },
             "require": {
@@ -531,6 +538,7 @@
                     "src/**/Internal/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -553,7 +561,7 @@
             ],
             "support": {
                 "issues": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues",
-                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.95.29"
+                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.95.30"
             },
             "funding": [
                 {
@@ -561,7 +569,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-06T16:25:42+00:00"
+            "time": "2026-11-09T14:32:19+00:00"
         },
         {
             "name": "psr/container",
@@ -573,7 +581,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/container/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9jb250YWluZXIvemlwYmFsbC9jNzFlY2M1NmRmZTU0MWRiZDkwYzUzNjA0NzRmYmM0MDVmOGQ1OTYzIiwidmVyc2lvbiI6IjIuMC4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "reference": "c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "shasum": ""
             },
@@ -591,6 +599,7 @@
                     "Psr\\Container\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -625,7 +634,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/event-dispatcher/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9ldmVudC1kaXNwYXRjaGVyL3ppcGJhbGwvZGJlZmQxMjY3MWU4YTE0ZWM3ZjE4MGNhYjgzMDM2ZWQyNjcxNGJiMCIsInZlcnNpb24iOiIxLjAuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/php-fig/event-dispatcher/zipball/dbefd12671e8a14ec7f180cab83036ed26714bb0",
                 "reference": "dbefd12671e8a14ec7f180cab83036ed26714bb0",
                 "shasum": ""
             },
@@ -643,6 +652,7 @@
                     "Psr\\EventDispatcher\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -674,7 +684,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/psr/log/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwLWZpZy9sb2cvemlwYmFsbC9mMTZlMWQ1ODYzZTM3ZjhkOGMyYTAxNzE5ZjViMzRiYWEyYjcxNGQzIiwidmVyc2lvbiI6IjMuMC4yIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "shasum": ""
             },
@@ -692,6 +702,7 @@
                     "Psr\\Log\\": "src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -723,7 +734,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/cache/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvY2FjaGUvemlwYmFsbC9kNDdjNDcyYjY0YWE1NjA4MjI1ZjQ3OTY1YTQ4NGI3NWM3ODE3ZDViIiwidmVyc2lvbiI6InYxLjIuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/reactphp/cache/zipball/d47c472b64aa5608225f47965a484b75c7817d5b",
                 "reference": "d47c472b64aa5608225f47965a484b75c7817d5b",
                 "shasum": ""
             },
@@ -740,6 +751,7 @@
                     "React\\Cache\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -794,7 +806,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/child-process/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvY2hpbGQtcHJvY2Vzcy96aXBiYWxsLzk3MGYwZTcxOTQ1NTU2NDIyZWU0NTcwY2NiYWJhZWRjM2NmMDRhZDMiLCJ2ZXJzaW9uIjoidjAuNi43IiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/reactphp/child-process/zipball/970f0e71945556422ee4570ccbabaedc3cf04ad3",
                 "reference": "970f0e71945556422ee4570ccbabaedc3cf04ad3",
                 "shasum": ""
             },
@@ -815,6 +827,7 @@
                     "React\\ChildProcess\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -868,7 +881,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/dns/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvZG5zL3ppcGJhbGwvNzU2MmMwNTM5MWY0MjcwMWMxZmNjZjE4OWM4MjI1ZmVjZTFjZDdjMyIsInZlcnNpb24iOiJ2MS4xNC4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/reactphp/dns/zipball/7562c05391f42701c1fccf189c8225fece1cd7c3",
                 "reference": "7562c05391f42701c1fccf189c8225fece1cd7c3",
                 "shasum": ""
             },
@@ -889,6 +902,7 @@
                     "React\\Dns\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -943,7 +957,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/event-loop/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvZXZlbnQtbG9vcC96aXBiYWxsL2JhMjc2YmRhNjA4M2RmN2UwMDUwZmQ5YjMzZjY2YWQ3YTRhYzc0N2EiLCJ2ZXJzaW9uIjoidjEuNi4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/reactphp/event-loop/zipball/ba276bda6083df7e0050fd9b33f66ad7a4ac747a",
                 "reference": "ba276bda6083df7e0050fd9b33f66ad7a4ac747a",
                 "shasum": ""
             },
@@ -962,6 +976,7 @@
                     "React\\EventLoop\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1014,7 +1029,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/promise/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvcHJvbWlzZS96aXBiYWxsLzIzNDQ0ZjUzYTgxM2EzMjk2YzEzNjhiYjEwNDc5M2NlOGQ4OGYwNGEiLCJ2ZXJzaW9uIjoidjMuMy4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/reactphp/promise/zipball/23444f53a813a3296c1368bb104793ce8d88f04a",
                 "reference": "23444f53a813a3296c1368bb104793ce8d88f04a",
                 "shasum": ""
             },
@@ -1034,6 +1049,7 @@
                     "React\\Promise\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1086,7 +1102,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/socket/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvc29ja2V0L3ppcGJhbGwvZWY1YjE3YjgxZjZmNjA1MDRjNTM5MzEzZjk0ZjJkODI2YzVmYWEwOCIsInZlcnNpb24iOiJ2MS4xNy4wIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/reactphp/socket/zipball/ef5b17b81f6f60504c539313f94f2d826c5faa08",
                 "reference": "ef5b17b81f6f60504c539313f94f2d826c5faa08",
                 "shasum": ""
             },
@@ -1110,6 +1126,7 @@
                     "React\\Socket\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1165,7 +1182,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/react/stream/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcmVhY3RwaHAvc3RyZWFtL3ppcGJhbGwvMWU1YjBhY2I4ZmU1NTE0M2I1YjQyNjgxNzE1NTE5MGViNmY1YjE4ZCIsInZlcnNpb24iOiJ2MS40LjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/reactphp/stream/zipball/1e5b0acb8fe55143b5b426817155190eb6f5b18d",
                 "reference": "1e5b0acb8fe55143b5b426817155190eb6f5b18d",
                 "shasum": ""
             },
@@ -1184,6 +1201,7 @@
                     "React\\Stream\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1242,7 +1260,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/sebastian/diff/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc2ViYXN0aWFuYmVyZ21hbm4vZGlmZi96aXBiYWxsL2I0Y2NkODU3MTI3ZGI1ZDQxYTViNjc2ZjI0YjUxMzcxZDc2ZDg1NDQiLCJ2ZXJzaW9uIjoiNi4wLjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "reference": "b4ccd857127db5d41a5b676f24b51371d76d8544",
                 "shasum": ""
             },
@@ -1264,6 +1282,7 @@
                     "src/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1308,7 +1327,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/console/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9jb25zb2xlL3ppcGJhbGwvODE5NTdjMjQ0MGMwNWM5NjJmZTgyOTFmMzE4ZGU2ZTg1ZjhkYjMzMCIsInZlcnNpb24iOiJ2Ny40LjIzIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/console/zipball/81957c2440c05c962fe8291f318de6e85f8db330",
                 "reference": "81957c2440c05c962fe8291f318de6e85f8db330",
                 "shasum": ""
             },
@@ -1351,6 +1370,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1405,7 +1425,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/deprecation-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9kZXByZWNhdGlvbi1jb250cmFjdHMvemlwYmFsbC9mZWIxZWRmNGU1NDZhZjNiODVjNWNhZWJlODM1OWEyMGRiMjMwY2EzIiwidmVyc2lvbiI6InYzLjguMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/feb1edf4e546af3b85c5caebe8359a20db230ca3",
                 "reference": "feb1edf4e546af3b85c5caebe8359a20db230ca3",
                 "shasum": ""
             },
@@ -1427,6 +1447,7 @@
                     "function.php"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1475,7 +1496,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/event-dispatcher/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9ldmVudC1kaXNwYXRjaGVyL3ppcGJhbGwvZDI2OTk3NGVlOTNjNjFkMDM2MjBmZmVlMzU4MzU1YmZkYjQ3MWQ2NiIsInZlcnNpb24iOiJ2Ny40LjE3IiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/d269974ee93c61d03620ffee358355bfdb471d66",
                 "reference": "d269974ee93c61d03620ffee358355bfdb471d66",
                 "shasum": ""
             },
@@ -1511,6 +1532,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1559,7 +1581,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/event-dispatcher-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9ldmVudC1kaXNwYXRjaGVyLWNvbnRyYWN0cy96aXBiYWxsLzY1OGUyOTc1MTQyNGRhM2VmNDc1OGM2MGY3NjllNTlkMWIyOTgxZWIiLCJ2ZXJzaW9uIjoidjMuOC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/658e29751424da3ef4758c60f769e59d1b2981eb",
                 "reference": "658e29751424da3ef4758c60f769e59d1b2981eb",
                 "shasum": ""
             },
@@ -1582,6 +1604,7 @@
                     "Symfony\\Contracts\\EventDispatcher\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1638,7 +1661,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/filesystem/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9maWxlc3lzdGVtL3ppcGJhbGwvNTNkNjA5ZGE2NjU3OGRhZDVhMzlmZTI5MGU4ZjkyNGVjOGYwNWU5MyIsInZlcnNpb24iOiJ2Ny40LjIzIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/53d609da66578dad5a39fe290e8f924ec8f05e93",
                 "reference": "53d609da66578dad5a39fe290e8f924ec8f05e93",
                 "shasum": ""
             },
@@ -1659,6 +1682,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1707,7 +1731,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/finder/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9maW5kZXIvemlwYmFsbC9jNzIzZjk5MGFlZmU4YzEwNTNiMTgzNzRmYWY0MjMxZWJhODRmNTE4IiwidmVyc2lvbiI6InY3LjQuMjMiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/c723f990aefe8c1053b18374faf4231eba84f518",
                 "reference": "c723f990aefe8c1053b18374faf4231eba84f518",
                 "shasum": ""
             },
@@ -1726,6 +1750,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1774,7 +1799,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/options-resolver/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9vcHRpb25zLXJlc29sdmVyL3ppcGJhbGwvYzk1ZGQ4MTcyOTk0NDkzNmI0OGY5ZmVjYjM4ZmY1MjRlZWFmOTdjMCIsInZlcnNpb24iOiJ2Ny40LjIyIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/c95dd81729944936b48f9fecb38ff524eeaf97c0",
                 "reference": "c95dd81729944936b48f9fecb38ff524eeaf97c0",
                 "shasum": ""
             },
@@ -1791,6 +1816,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1844,7 +1870,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-ctype/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1jdHlwZS96aXBiYWxsLzE0MTA0NmE4Zjk0Nzc5NDhmZjI4NGZhNjViZTIwOTViYWFmYjk0ZjIiLCJ2ZXJzaW9uIjoidjEuMzcuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/141046a8f9477948ff284fa65be2095baafb94f2",
                 "reference": "141046a8f9477948ff284fa65be2095baafb94f2",
                 "shasum": ""
             },
@@ -1872,6 +1898,7 @@
                     "Symfony\\Polyfill\\Ctype\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1926,7 +1953,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-intl-grapheme/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1pbnRsLWdyYXBoZW1lL3ppcGJhbGwvNWE4ZjMzYzg3YWVlY2ZmY2UyNGU3MjFiNTA2NGZhYjA1ZjRiZWNmOCIsInZlcnNpb24iOiJ2MS40My4zIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-grapheme/zipball/5a8f33c87aeecffce24e721b5064fab05f4becf8",
                 "reference": "5a8f33c87aeecffce24e721b5064fab05f4becf8",
                 "shasum": ""
             },
@@ -1951,6 +1978,7 @@
                     "Symfony\\Polyfill\\Intl\\Grapheme\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2007,7 +2035,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-intl-normalizer/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1pbnRsLW5vcm1hbGl6ZXIvemlwYmFsbC9lYmQ1N2NjYzdlZGI5M2Q2MzJlMTg0ZWZiZTc2OTNkMjUxN2JhYjNiIiwidmVyc2lvbiI6InYxLjQzLjAiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/ebd57ccc7edb93d632e184efbe7693d2517bab3b",
                 "reference": "ebd57ccc7edb93d632e184efbe7693d2517bab3b",
                 "shasum": ""
             },
@@ -2035,6 +2063,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2091,7 +2120,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-mbstring/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1tYnN0cmluZy96aXBiYWxsLzEyMjg4OWVkMjRkYzAwMDE2NWJjYmZkNzdlYzQxMmYxNWNiZGZjNmEiLCJ2ZXJzaW9uIjoidjEuNDMuMyIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/122889ed24dc000165bcbfd77ec412f15cbdfc6a",
                 "reference": "122889ed24dc000165bcbfd77ec412f15cbdfc6a",
                 "shasum": ""
             },
@@ -2120,6 +2149,7 @@
                     "Symfony\\Polyfill\\Mbstring\\": ""
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2175,7 +2205,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-php80/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1waHA4MC96aXBiYWxsLzljNmE1ZDZiMDFjYTUxZDQ4NmM4MTNlOWE5YzBlZDU1ZjIwOGJiNzQiLCJ2ZXJzaW9uIjoidjEuNDMuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/9c6a5d6b01ca51d486c813e9a9c0ed55f208bb74",
                 "reference": "9c6a5d6b01ca51d486c813e9a9c0ed55f208bb74",
                 "shasum": ""
             },
@@ -2200,6 +2230,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2258,7 +2289,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-php81/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1waHA4MS96aXBiYWxsLzZiZmI5Yzc2NmNhY2ZmYmM4ZTExOGNiODcyMTdkMDhlZDg0ZTVjZDciLCJ2ZXJzaW9uIjoidjEuMzguMSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-php81/zipball/6bfb9c766cacffbc8e118cb87217d08ed84e5cd7",
                 "reference": "6bfb9c766cacffbc8e118cb87217d08ed84e5cd7",
                 "shasum": ""
             },
@@ -2283,6 +2314,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2337,7 +2369,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/polyfill-php84/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wb2x5ZmlsbC1waHA4NC96aXBiYWxsLzIyYzY1NDg0OTljYmU1YzViYjA3MmZjMGM0MjMxMmRmZjA2MmEwMTUiLCJ2ZXJzaW9uIjoidjEuNDMuMCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/polyfill-php84/zipball/22c6548499cbe5c5bb072fc0c42312dff062a015",
                 "reference": "22c6548499cbe5c5bb072fc0c42312dff062a015",
                 "shasum": ""
             },
@@ -2362,6 +2394,7 @@
                     "Resources/stubs"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2416,7 +2449,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/process/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9wcm9jZXNzL3ppcGJhbGwvYTVhNjkxMmVkYmJmYzRjOThjZDA4MGJjNGJiZTM3YzhlN2VlYjIwYSIsInZlcnNpb24iOiJ2Ny40LjIyIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/process/zipball/a5a6912edbbfc4c98cd080bc4bbe37c8e7eeb20a",
                 "reference": "a5a6912edbbfc4c98cd080bc4bbe37c8e7eeb20a",
                 "shasum": ""
             },
@@ -2432,6 +2465,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2480,7 +2514,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/service-contracts/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zZXJ2aWNlLWNvbnRyYWN0cy96aXBiYWxsLzA1Mjg1MmE5NmZkNWU1ZWJkYjYxN2RiYTIyMDMxZTQxYTMzMDBmYjUiLCJ2ZXJzaW9uIjoidjMuOC4xIiwiZmlsZVR5cGUiOiJ6aXAifQ==",
+                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/052852a96fd5e5ebdb617dba22031e41a3300fb5",
                 "reference": "052852a96fd5e5ebdb617dba22031e41a3300fb5",
                 "shasum": ""
             },
@@ -2510,6 +2544,7 @@
                     "/Test/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2566,7 +2601,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/stopwatch/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zdG9wd2F0Y2gvemlwYmFsbC83MGE4NTJkNzJmZWM0ZDUxZWZiMWY0OGRjZDk2OGVmY2FmNWNjYjg5IiwidmVyc2lvbiI6InY3LjQuOCIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/symfony/stopwatch/zipball/70a852d72fec4d51efb1f48dcd968efcaf5ccb89",
                 "reference": "70a852d72fec4d51efb1f48dcd968efcaf5ccb89",
                 "shasum": ""
             },
@@ -2583,6 +2618,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2631,7 +2667,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/symfony/string/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mvc3ltZm9ueS9zdHJpbmcvemlwYmFsbC84ZGZmN2RhM2E1NjYzOGYxZDE4OWM1MzY4MTgzMjk0MTAyZGU0Y2VkIiwidmVyc2lvbiI6InY3LjQuMjIiLCJmaWxlVHlwZSI6InppcCJ9",
+                "url": "https://api.github.com/repos/symfony/string/zipball/8dff7da3a56638f1d189c5368183294102de4ced",
                 "reference": "8dff7da3a56638f1d189c5368183294102de4ced",
                 "shasum": ""
             },
@@ -2665,6 +2701,7 @@
                     "/Tests/"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],

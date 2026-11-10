@@ -1,15 +1,6 @@
 {
   "require": {
     "php": ">=8.2",
-    "vimeo/psalm": "^6.0"
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.iserv.eu"
-    },
-    {
-      "packagist": false
-    }
-  ]
+    "vimeo/psalm": "^7.2"
+  }
 }

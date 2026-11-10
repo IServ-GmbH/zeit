@@ -4,14 +4,14 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b79d74809e47deab619eed87fe4fb7b9",
+    "content-hash": "70ab7193b78548b6bb83e3714506e3aa",
     "packages": [
         {
             "name": "phpstan/phpstan",
             "version": "2.3.5",
             "dist": {
                 "type": "zip",
-                "url": "https://repoflow.iserv.eu/api/composer/iserv/packagist/phpstan/phpstan/eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvcGhwc3Rhbi9waHBzdGFuL3ppcGJhbGwvNjQ1YTFiZDZiZWFkMTVmYzFiODQ3NDEzNzQ2Nzk2MWQwZmEzMGE3OSIsInZlcnNpb24iOiIyLjMuNSIsImZpbGVUeXBlIjoiemlwIn0=",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/645a1bd6bead15fc1b8474137467961d0fa30a79",
                 "reference": "645a1bd6bead15fc1b8474137467961d0fa30a79",
                 "shasum": ""
             },
@@ -31,6 +31,7 @@
                     "bootstrap.php"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
