@@ -1,5 +1,15 @@
 {
-    "require": {
-        "friendsofphp/php-cs-fixer": "^3.8"
+  "require": {
+    "php": ">=8.2",
+    "friendsofphp/php-cs-fixer": "^3.95"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.iserv.eu"
+    },
+    {
+      "packagist": false
     }
+  ]
 }

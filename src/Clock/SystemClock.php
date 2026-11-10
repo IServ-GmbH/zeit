@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace IServ\Library\Zeit\Clock;
 
+/**
+ * @api
+ */
 final class SystemClock implements Clock
 {
     private function __construct()
@@ -18,6 +21,7 @@ final class SystemClock implements Clock
     /**
      * {@inheritDoc}
      */
+    #[\Override]
     public function now(): \DateTimeImmutable
     {
         return new \DateTimeImmutable();
@@ -26,6 +30,7 @@ final class SystemClock implements Clock
     /**
      * {@inheritDoc}
      */
+    #[\Override]
     public function usleep(int $microseconds): void
     {
         usleep($microseconds);

@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace IServ\Library\Zeit;
 
+/**
+ * @api
+ */
 final class Date implements Datetimeable, \Stringable
 {
     private const BC = '-';
@@ -65,6 +68,7 @@ final class Date implements Datetimeable, \Stringable
     /**
      * {@inheritDoc}
      */
+    #[\Override]
     public function toDateTime(): \DateTimeImmutable
     {
         return $this->withTime();
@@ -90,6 +94,7 @@ final class Date implements Datetimeable, \Stringable
     /**
      * {@inheritDoc}
      */
+    #[\Override]
     public function __toString(): string
     {
         return $this->value;
